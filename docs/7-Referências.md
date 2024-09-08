@@ -1,5 +1,8 @@
 # Referências
 
+[1] GOULART, J. L. Desinteresse escolar: em busca de uma compreensão. Revista Científica Multidisciplinar Núcleo do Conhecimento, v. 04, n. 01, p. 89–110, 18 jan. 2022. 
+
+
 Inclua todas as referências (livros, artigos, sites etc) utilizados no desenvolvimento do trabalho.
 
 As referências deverão ser apresentadas aqui, na ordem em que elas aparecem, nos textos dentro do repositório (a numeração também deve ser sequencial).
