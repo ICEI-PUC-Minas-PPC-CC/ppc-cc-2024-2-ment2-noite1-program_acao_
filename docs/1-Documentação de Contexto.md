@@ -1,9 +1,12 @@
 # Introdução
 
 Texto **descritivo** com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Atualmente, a educação brasileira enfrenta vários desafios, alguns de dimensão pessoal, outros de dimensão técnica, espalhados numa grande variedade de situações.
 
 ## Problema
 Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
+Uma das queixas mais comuns entre os professores e toda a comunidade escolar é a falta de interesse dos alunos nas aulas, traduzida por apatia com as aulas e as pessoas que a compõem, ou seja, colegas e professores. Isso decorre de fatores variados, segundo Goulart^[1], e acarreta na queda do rendimento, na não apreensão de conteúdos importantes para a vida, na evasão escolar e na reprovação.
+As causas de tal falta de interesse passam por problemas pessoas dos alunos e suas famílias, bem como da desmotivação dos professores em suas práxis. Além disso, a distância entre a tecnologia e as escolas públicas também é uma realidade preocupante, visto que, ainda assim, cerca de 91% dos pais, em março de 2022, concordam que o uso da internet nas escolas as torna mais atrativas para o aluno, segundo reportagem do Jornal Nacional [2].
 
 O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
