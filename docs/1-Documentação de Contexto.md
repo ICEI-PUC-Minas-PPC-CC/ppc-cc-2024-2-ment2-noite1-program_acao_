@@ -1,7 +1,7 @@
 # Introdução
 
 Texto **descritivo** com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
-Atualmente, a educação brasileira enfrenta vários desafios, alguns de dimensão pessoal, outros de dimensão técnica, espalhados numa grande variedade de situações.
+Atualmente, a educação brasileira enfrenta vários desafios, alguns de dimensão pessoal, outros de dimensão técnica, espalhados numa grande variedade de situações. A educação é direito e dever de todos e de todas, de forma que o compromisso com uma educação de qualidade não se resume somente à prática docente. Uma educação de qualidade também é responsabilidade de outros agentes e setores da sociedade, que compõem a comunidade escolar.
 
 ## Problema
 Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
