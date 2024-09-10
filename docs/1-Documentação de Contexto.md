@@ -1,7 +1,11 @@
 # Introdução
 
-Texto **descritivo** com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
-Atualmente, a educação brasileira enfrenta vários desafios, alguns de dimensão pessoal, outros de dimensão técnica, espalhados numa grande variedade de situações. A educação é direito e dever de todos e de todas, de forma que o compromisso com uma educação de qualidade não se resume somente à prática docente. Uma educação de qualidade também é responsabilidade de outros agentes e setores da sociedade, que compõem a comunidade escolar.
+O projeto abordará uma série de contextos sociais, levando em pauta a violência urbana, e visa principalmente a educação e treinamento de jovens por meio da tecnologia. Como um grupo, nós aprendemos a destacar e visualizar os nossos problemas (issues), estamos dispostos a procurar eficazmente soluciona-los através de uma forma interativa, educativa e principalmente tendo em mente o nosso público-alvo jovem ter uma experiência de prazer ao aprender, assim como em jogos digitais.
+
+Esses problemas foram estudados e comparados com as próprias experiências vividas pelos integrantes do grupo levando a um contexto de desigualdade existente na sociedade, principalmente em países de terceiro mundo como o nosso. A justificativa tirada para a causa desse problema destaca diversos fatores, sendo que abordaremos a desigualdade social, pobreza, falta de acesso à educação e oportunidades de emprego, além da presença de grupos criminosos organizados.
+
+Esses fatores se inter-relacionam e criam um ciclo difícil de quebrar. A violência urbana, muitas vezes, é um sintoma de problemas mais profundos e estruturais que necessitam de abordagens multifacetadas, temos em mente desenvolver esse projeto
+e gradualmente solucionando esses problemas.
 
 ## Problema
 Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
