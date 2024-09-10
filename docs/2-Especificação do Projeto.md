@@ -6,8 +6,6 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 ## Personas
 
-Exemplo:
-
 | **Tiaguinho da Silva** |                     |                             | 
 |------------------|---------------------|-----------------------------|
 | ![Minha Imagem](https://github.com/user-attachments/assets/91964465-6b1c-4c96-8d50-258c6ee3f8e2) | **Idade:** 14 anos. **Naturalidade:** Caldas - Minas Gerais. **Ocupação:** Estudante. | **Atribuições:** Estudar no ensino fundamental para se tornar um bom cidadão. |
@@ -18,14 +16,10 @@ Exemplo:
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas (identifiquem, no mínimo, 2 personas), histórias de usuários (identifiquem, no mínimo, 3 histórias de usuários por persona), requisitos funcionais, requisitos não funcionais e artefatos produzidos para levantamento de dados).
 
-## Personas
-
-Exemplo:
-
-| **Tiaguinho da Silva** |                     |                             | 
+| **Ingrid Siqueira** |                     |                             | 
 |------------------|---------------------|-----------------------------|
-| ![Minha Imagem](https://github.com/user-attachments/assets/91964465-6b1c-4c96-8d50-258c6ee3f8e2) | **Idade:** 14 anos. **Naturalidade:** Caldas - Minas Gerais. **Ocupação:** Estudante. | **Atribuições:** Estudar no ensino fundamental para se tornar um bom cidadão. |
-**Conquistas:** foi o artilheiro de seu time vencedor do interclasses de sua escola. Conseguiu ganhar um campeonato individual de embaixadinhas. Trabalhou durante um pouco mais de um ano e comprou um Xbox One. **Comida favorita:** Miojo **Condições físicas:**  Tem muita saúde. Tem 1, 68m de altura e pesa 62Kg     |**Medo:** se tornar uma pessoa solitária. |**Renda familiar:** R$1600,00 a R$2500,00
+| ![Minha Imagem](https://github.com/user-attachments/assets/91964465-6b1c-4c96-8d50-258c6ee3f8e2) | **Idade:** 15 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante. | **Atribuições:** Estudar no ensino médio e aprender a tocar violino. |
+**Conquistas:** não tem muitas conquistas, mas entre a sua roda de amigos e escola é a única que sabe tocar violino. **Comida favorita:** Sushi **Condições físicas:**  Tem muita saúde, porém tem crises asmáticas. Sofreu no passado por maus tratos de seu pai e por isso acabou desenvolvendo uma autoestima muito baixa. Tem 1, 68m de altura e pesa 62Kg     |**Medo:** se tornar uma pessoa solitária. |**Renda familiar:** R$1600,00 a R$2500,00
 |**Motivações:** Se tornar um jogador de futebol bem sucedido ou ganhar a vida fazendo o que gosta de verdade.  |**Frustações:** O pai bebe muito e sua família não é bem estruturada, mas o pior de tudo é o bairro onde vive tem muito tráfico de drogas e violência. Não gosta de ir para a escola e suas notas são geralmente baixas.  |**Hobbies, história:** Apesar de todas as suas dificuldades Tiaguinho é muito bom no futebol e em tudo que se interessa fazer. Não dá trabalho para os pais e gosta muito de passar o empo com os amigos.
 
 ## Histórias de Usuários
