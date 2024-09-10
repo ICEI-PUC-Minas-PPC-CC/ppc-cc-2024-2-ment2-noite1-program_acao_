@@ -22,7 +22,7 @@
 ### Artefatos para levantamento de dados
 
 
-###Estratégia de Levantamento de Dados e Artefatos Produzidos
+### Estratégia de Levantamento de Dados e Artefatos Produzidos
 Para entender melhor as necessidades e desafios enfrentados pelos jovens em busca de emprego e desenvolvimento profissional, e para avaliar a eficácia dos cursos e programas de capacitação propostos, o grupo realizará um levantamento de dados através de diferentes estratégias e artefatos. A seguir, descrevo as principais etapas e ferramentas envolvidas no processo:
 
 #### 1. Desenvolvimento de Questionários
