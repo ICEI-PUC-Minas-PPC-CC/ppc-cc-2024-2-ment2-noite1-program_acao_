@@ -9,8 +9,6 @@
 **Conquistas:** foi o artilheiro de seu time vencedor do interclasses de sua escola. Conseguiu ganhar um campeonato individual de embaixadinhas. Trabalhou durante um pouco mais de um ano e comprou um Xbox One. **Comida favorita:** Miojo **Condições físicas:**  Tem muita saúde. Tem 1, 68m de altura e pesa 62Kg     |**Medo:** se tornar uma pessoa solitária. |**Renda familiar:** R$1600,00 a R$2500,00
 |**Motivações:** Se tornar um jogador de futebol bem sucedido ou ganhar a vida fazendo o que gosta de verdade.  |**Frustações:** O pai bebe muito e sua família não é bem estruturada, mas o pior de tudo é o bairro onde vive tem muito tráfico de drogas e violência. Não gosta de ir para a escola e suas notas são geralmente baixas.  |**Hobbies, história:** Apesar de todas as suas dificuldades Tiaguinho é muito bom no futebol e em tudo que se interessa fazer. Não dá trabalho para os pais e gosta muito de passar o empo com os amigos.
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
 
 
 | **Ingrid Siqueira** |                     |                             | 
