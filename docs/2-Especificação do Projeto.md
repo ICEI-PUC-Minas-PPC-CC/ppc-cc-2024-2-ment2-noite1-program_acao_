@@ -17,17 +17,6 @@
 **Conquistas:** não tem muitas conquistas, mas entre a sua roda de amigos e escola é a única que sabe tocar violino. **Comida favorita:** Sushi **Condições físicas:**  Tem muita saúde, porém tem crises asmáticas. Sofreu no passado por maus tratos de seu pai e por isso acabou desenvolvendo uma autoestima muito baixa. Tem 1, 68m de altura e pesa 62Kg     |**Medo:** se tornar uma pessoa solitária. |**Renda familiar:** R$1600,00 a R$2500,00
 |**Motivações:** Se tornar um jogador de futebol bem sucedido ou ganhar a vida fazendo o que gosta de verdade.  |**Frustações:** O pai bebe muito e sua família não é bem estruturada, mas o pior de tudo é o bairro onde vive tem muito tráfico de drogas e violência. Não gosta de ir para a escola e suas notas são geralmente baixas.  |**Hobbies, história:** Apesar de todas as suas dificuldades Tiaguinho é muito bom no futebol e em tudo que se interessa fazer. Não dá trabalho para os pais e gosta muito de passar o empo com os amigos.
 
-## Histórias de Usuários
-
-Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
-
-Exemplo:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
-
 
 
 ### Artefatos para levantamento de dados
