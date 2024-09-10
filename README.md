@@ -7,8 +7,8 @@
 ## Integrantes
 
 - Daniel Dias de Carvalho Santos
-- Leonardo
 - Leonardo Gabriel de Moraes Carvalho
+- Leonardo Silva Melo Santos
 - Luiz Gustavo Martins
 - Washington Assis Freitas
 
