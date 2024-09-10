@@ -18,13 +18,13 @@ Desenvolver uma solução eficaz para aumentar o interesse e engajamento dos jov
 
 Objetivos Específicos
 
-# 1 - Identificar e analisar as principais razões que contribuem para a falta de interesse dos jovens no mercado de trabalho.
+### 1 - Identificar e analisar as principais razões que contribuem para a falta de interesse dos jovens no mercado de trabalho.
 
 Realizar pesquisas e entrevistas com jovens para entender suas percepções e desafios.
     
 Examinar dados e relatórios sobre tendências de emprego e lacunas na formação profissional.
     
-# 2 - Oferecer programas de capacitação e cursos voltados para o desenvolvimento de habilidades e conhecimentos necessários para o mercado de trabalho.
+### 2 - Oferecer programas de capacitação e cursos voltados para o desenvolvimento de habilidades e conhecimentos necessários para o mercado de trabalho.
 
 Desenvolver e disponibilizar cursos online e presenciais sobre habilidades técnicas e soft skills.
     
@@ -33,38 +33,40 @@ Desenvolver e disponibilizar cursos online e presenciais sobre habilidades técn
 
 A falta de interesse dos jovens no mercado de trabalho é um problema significativo com implicações profundas para a economia, a sociedade e o próprio desenvolvimento profissional dos indivíduos. Escolher esse tema é fundamental por diversas razões:
 
-# 1- Impacto Econômico e Social:
+#### 1- Impacto Econômico e Social:
 
 A baixa participação dos jovens no mercado de trabalho pode levar a uma escassez de talentos e a uma redução da inovação e da competitividade em setores chave. Segundo o Relatório Mundial de Emprego da Organização Internacional do Trabalho (OIT), a taxa de desemprego juvenil global era de aproximadamente 14% em 2023, três vezes mais alta do que a taxa de desemprego geral. Esta disparidade destaca a necessidade urgente de abordar o engajamento dos jovens na força de trabalho.
 
-# 2- Desafios de Formação Profissional:
+### 2- Desafios de Formação Profissional:
 
 Muitos jovens enfrentam uma lacuna significativa entre a educação formal e as habilidades exigidas pelo mercado de trabalho. Dados da Pesquisa Nacional por Amostra de Domicílios (PNAD) do Brasil indicam que cerca de 30% dos jovens entre 18 e 24 anos não possuem as habilidades necessárias para o mercado de trabalho atual, o que evidencia a necessidade de uma capacitação mais eficaz.
 
-# 3- Desmotivação e Falta de Orientação:
+### 3- Desmotivação e Falta de Orientação:
 
 Estudos como o realizado pelo Instituto de Pesquisa Econômica Aplicada (IPEA) revelam que a falta de orientação profissional e a falta de informações claras sobre trajetórias de carreira são fatores críticos que contribuem para o desinteresse dos jovens. Esses fatores podem gerar desmotivação e a sensação de falta de propósito, dificultando o engajamento com o mercado de trabalho.
 
-# 4- Necessidade de Capacitação:
+### 4- Necessidade de Capacitação:
 
 A formação contínua e a capacitação são essenciais para preparar os jovens para as demandas do mercado de trabalho. De acordo com a Educação e Formação de Adultos (EFA), a taxa de participação em cursos de formação e capacitação profissional para jovens tem aumentado, mas ainda é insuficiente. A criação de programas de capacitação específicos pode ajudar a preencher essa lacuna, proporcionando aos jovens as habilidades necessárias para ingressar e prosperar em suas carreiras.
 
-# 5- Aproveitamento de Tecnologias e Plataformas:
+### 5- Aproveitamento de Tecnologias e Plataformas:
 
 Com o crescimento da tecnologia e das plataformas digitais, há uma oportunidade única para criar soluções inovadoras que conectem jovens a informações e recursos valiosos. A Forbes destaca que o uso de plataformas digitais pode ser um facilitador crucial para a aprendizagem e o desenvolvimento de carreiras, tornando-as ferramentas poderosas para engajar e capacitar jovens.
 
-# 6- Benefícios para a Sociedade:
+### 6- Benefícios para a Sociedade:
 
 Investir na capacitação e no engajamento dos jovens não só beneficia os indivíduos e a economia, mas também contribui para uma sociedade mais equilibrada e produtiva. Um estudo da McKinsey & Company aponta que a inclusão de jovens bem treinados no mercado de trabalho pode aumentar significativamente o crescimento econômico e a inovação, promovendo um ciclo positivo de desenvolvimento e oportunidades.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+Características Gerais:
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
+Faixa Etária: 15 a 18 anos.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Nível de Escolaridade: Ensino médio completo ou cursando, e jovens que estão se preparando para ingressar no ensino superior ou no mercado de trabalho.
+
+Conhecimentos Prévios: Conhecimentos básicos adquiridos no ensino médio, com pouca ou nenhuma experiência prática no mercado de trabalho. Estão em fase de exploração e descoberta de suas áreas de interesse e habilidades.
+
+Relação com Tecnologia: Alta familiaridade com tecnologias digitais, incluindo o uso de smartphones e acesso a redes sociais e plataformas online. Estes usuários são geralmente adeptos de aprender através de cursos online e presenciais.
+
+Motivações e Desafios: Interesse em explorar opções de carreira e obter orientação sobre o desenvolvimento de habilidades que podem ser úteis no futuro. Enfrentam desafios como a falta de clareza sobre carreiras, a necessidade de orientação prática e a dificuldade em identificar caminhos de carreira adequados para suas habilidades e interesses.
