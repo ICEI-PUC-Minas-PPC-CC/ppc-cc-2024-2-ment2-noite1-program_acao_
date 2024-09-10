@@ -8,16 +8,8 @@ Esses fatores se inter-relacionam e criam um ciclo difícil de quebrar. A violê
 e gradualmente solucionando esses problemas.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
-Uma das queixas mais comuns entre os professores e toda a comunidade escolar é a falta de interesse dos alunos nas aulas, traduzida por apatia com as aulas e as pessoas que a compõem, ou seja, colegas e professores. Isso decorre de fatores variados, segundo Goulart^[1], e acarreta na queda do rendimento, na não apreensão de conteúdos importantes para a vida, na evasão escolar e na reprovação.
-As causas de tal falta de interesse passam por problemas pessoas dos alunos e suas famílias, bem como da desmotivação dos professores em suas práxis. Além disso, a distância entre a tecnologia e as escolas públicas também é uma realidade preocupante, visto que, ainda assim, cerca de 91% dos pais, em março de 2022, concordam que o uso da internet nas escolas as torna mais atrativas para o aluno, segundo reportagem do Jornal Nacional [2].
+Reduzir substancialmente a proporção de jovens sem emprego, educação ou formação. E também A violência urbana é alimentada por diversos fatores, incluindo desigualdade social, pobreza, falta de acesso à educação e oportunidades de emprego, além da presença de grupos criminosos organizados.
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
