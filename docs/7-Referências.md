@@ -4,19 +4,23 @@
 
 [2] Uso da tecnologia ainda é um desafio para escolas públicas e privadas de todo o país | Jornal Nacional | G1. Disponível em: <https://g1.globo.com/jornal-nacional/noticia/2022/03/12/uso-da-tecnologia-ainda-e-um-desafio-para-escolas-publicas-e-privadas-de-todo-o-pais.ghtml>. Acesso em: 8 set. 2024. 
 
+> - Organização Internacional do Trabalho (OIT):
 
-Inclua todas as referências (livros, artigos, sites etc) utilizados no desenvolvimento do trabalho.
+Relatório Mundial de Emprego 2023: OIT - Relatório Mundial de Emprego
+Taxa de desemprego juvenil global: OIT - Estatísticas de Emprego
+Pesquisa Nacional por Amostra de Domicílios (PNAD):
 
-As referências deverão ser apresentadas aqui, na ordem em que elas aparecem, nos textos dentro do repositório (a numeração também deve ser sequencial).
+PNAD Contínua: IBGE - PNAD Contínua
+Instituto de Pesquisa Econômica Aplicada (IPEA):
 
-Exemplos de referências:
+Estudos sobre juventude e mercado de trabalho: IPEA - Estudos e Pesquisas
+Educação e Formação de Adultos (EFA):
 
-[1] ELMASRI, Ramez; NAVATHE, Sham. Sistemas de banco de dados. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001. 
+Relatórios sobre participação em formação profissional: EFA - Relatórios e Publicações
+Forbes - Uso de plataformas digitais para desenvolvimento de carreira:
 
-[2] CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996.
+Artigos sobre tendências em educação e carreira: Forbes - Artigos de Educação
+McKinsey & Company:
 
-> **Links Úteis**:
-> - [Normas ABNT PUC Minas](http://portal.pucminas.br/biblioteca/documentos/ABNT-Formatar-indicar-citacoes-e-referencia-las.pdf)
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+Estudos sobre o impacto da inclusão de jovens no mercado de trabalho: McKinsey & Company - Insights e Publicações
 
