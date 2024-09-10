@@ -11,7 +11,7 @@ Exemplo:
 | **Tiaguinho da Silva** |                     |                             | 
 |------------------|---------------------|-----------------------------|
 | ![Minha Imagem](https://github.com/user-attachments/assets/91964465-6b1c-4c96-8d50-258c6ee3f8e2) | **Idade:** 14 anos. **Naturalidade:** Caldas - Minas Gerais. **Ocupação:** Estudante. | **Atribuições:** Estudar no ensino fundamental para se tornar um bom cidadão. |
-**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
+**Conquistas:** foi o artilheiro de seu time vencedor do interclasses de sua escola. Conseguiu ganhar um campeonato individual de embaixadinhas. Trabalhou durante um pouco mais de um ano e comprou um Xbox One. **Comida favorita:** Miojo **Condições físicas:**  Tem muita saúde. Tem 1, 68m de altura e pesa 62Kg     |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
 |**Motivações:** Se tornar um jogador de futebol bem sucedido ou ganhar a vida fazendo o que gosta de verdade.  |**Frustações:** O pai bebe muito e sua família não é bem estruturada, mas o pior de tudo é o bairro onde vive tem muito tráfico de drogas e violência. Não gosta de ir para a escola e suas notas são geralmente baixas.  |**Hobbies, história:** Apesar de todas as suas dificuldades Tiaguinho é muito bom no futebol e em tudo que se interessa fazer. Não dá trabalho para os pais e gosta muito de passar o empo com os amigos.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
