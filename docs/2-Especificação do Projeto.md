@@ -6,7 +6,7 @@
 | **Tiago da Silva** |                     |                             | 
 |------------------|---------------------|-----------------------------|
 | ![Minha Imagem](https://github.com/user-attachments/assets/91964465-6b1c-4c96-8d50-258c6ee3f8e2) | **Idade:** 16 anos. **Naturalidade:** Caldas - Minas Gerais. **Ocupação:** Estudante. | **Atribuições:** Estudar no ensino fundamental para se tornar um bom cidadão. |
-**Conquistas:** foi o artilheiro de seu time vencedor do interclasses de sua escola. Conseguiu ganhar um campeonato individual de embaixadinhas. Trabalhou durante um pouco mais de um ano e comprou um Xbox One. **Comida favorita:** Miojo **Condições físicas:**  tem muita saúde. Tem 1, 68m de altura e pesa 62Kg.     |**Medo:** se tornar uma pessoa solitária. |**Renda familiar:** R$1600,00 a R$2500,00
+**Conquistas:** foi o artilheiro de seu time vencedor do interclasses de sua escola. Conseguiu ganhar um campeonato individual de embaixadinhas. Trabalhou durante um pouco mais de um ano e comprou um Xbox One. **Comida favorita:** Miojo **Condições físicas:**  tem muita saúde. Tem 1, 68m de altura e pesa 62Kg.     |**Medo:** se tornar uma pessoa solitária. |**Renda familiar:** R$ 1600,00 a R$ 2500,00.
 |**Motivações:** Se tornar um jogador de futebol bem-sucedido ou ganhar a vida fazendo o que gosta de verdade.  |**Frustrações:** O pai bebe muito e sua família não é bem estruturada, mas o pior de tudo é que o bairro onde vive tem muito tráfico de drogas e violência. Não gosta de ir para a escola e suas notas são geralmente baixas.  |**Hobbies, história:** Apesar de todas as suas dificuldades, Tiaguinho é ótimo no futebol e em tudo que se interessa fazer. Não dá trabalho para os pais e gosta muito de passar o tempo com os amigos.
 
 
@@ -42,6 +42,7 @@ Nascido na capital mineira, Clayton tinha aguçada noção de que poderia se des
 
 ### Estratégia de Levantamento de Dados e Artefatos Produzidos
 Para entender melhor as necessidades e desafios enfrentados pelos jovens em busca de emprego e desenvolvimento profissional, e para avaliar a eficácia dos cursos e programas de capacitação propostos, o grupo realizará um levantamento de dados por meio de diferentes estratégias e artefatos. A seguir, descrevo as principais etapas e ferramentas envolvidas no processo:
+
 "Para compreender melhor as necessidades e os desafios que os jovens enfrentam na procura de emprego e desenvolvimento profissional, e para avaliar a eficácia dos cursos e programas de formação propostos, o grupo utilizará diferentes estratégias e artefactos para a recolha de dados. Abaixo, descrevo as principais etapas e ferramentas envolvidas no processo:"
 
 #### 1. Desenvolvimento de Questionários
