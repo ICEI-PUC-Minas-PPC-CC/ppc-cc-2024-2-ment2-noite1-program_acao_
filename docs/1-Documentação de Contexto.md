@@ -8,8 +8,8 @@ Esses fatores se inter-relacionam e criam um ciclo difícil de quebrar. A violê
 
 ## Problema
 
-Uma das queixas mais comuns entre os professores e toda a comunidade escolar é a falta de interesse dos alunos nas aulas, traduzida por apatia com as aulas e as pessoas que a compõem, ou seja, colegas e professores. Isso decorre de fatores variados, segundo Goulart^[1], e acarreta na queda do rendimento, na não apreensão de conteúdos importantes para a vida, na evasão escolar e na reprovação.
-As causas de tal falta de interesse passam por problemas pessoas dos alunos e suas famílias, bem como da desmotivação dos professores em suas práxis. Além disso, a distância entre a tecnologia e as escolas públicas também é uma realidade preocupante, visto que, ainda assim, cerca de 91% dos pais, em março de 2022, concordam que o uso da internet nas escolas as torna mais atrativas para o aluno, segundo reportagem do Jornal Nacional [2].
+Uma das queixas mais comuns entre os professores e toda a comunidade escolar é o desinteresse dos alunos nas aulas, traduzido por apatia com as aulas e as pessoas que a compõem, ou seja, colegas e professores. Isso decorre de fatores variados, segundo Goulart[1], e acarreta em queda do rendimento, na não apreensão de conteúdos importantes para a vida, na evasão escolar e na reprovação.
+As causas de tal desinteresse passam por problemas pessoais dos alunos e suas famílias, bem como da desmotivação dos professores em suas práxis. Além disso, a distância entre a tecnologia e as escolas públicas também é uma realidade preocupante, visto que, ainda assim, cerca de 91% dos pais, em março de 2022, concordam que o uso da internet nas escolas as torna mais atrativas para o aluno, segundo reportagem do Jornal Nacional[2].
 
 ## Objetivos
 
@@ -18,7 +18,7 @@ Desenvolver uma solução eficaz para aumentar o interesse e engajamento dos jov
 
 Objetivos Específicos
 
-#### 1 - Identificar e analisar as principais razões que contribuem para a falta de interesse dos jovens no mercado de trabalho.
+#### 1 - Identificar e analisar as principais razões que contribuem para o desinteresse dos jovens no mercado de trabalho.
 
 Realizar pesquisas e entrevistas com jovens para entender suas percepções e desafios.
     
@@ -31,11 +31,11 @@ Desenvolver e disponibilizar cursos online e presenciais sobre habilidades técn
 
 ## Justificativa
 
-A falta de interesse dos jovens nos estudos e no mercado de trabalho é um problema significativo com profundas implicações para a economia, a sociedade e o próprio desenvolvimento profissional e pessoal dos indivíduos. Escolher esse tema é fundamental por diversas razões:
+O desinteresse dos jovens nos estudos e no mercado de trabalho é um problema significativo com profundas implicações para a economia, a sociedade e o próprio desenvolvimento profissional e pessoal dos indivíduos. Escolher esse tema é fundamental por diversas razões:
 
 #### 1- Impacto Econômico e Social:
 
-A baixa participação dos jovens no mercado de trabalho pode levar a uma escassez de talentos e a uma redução da inovação e da competitividade em setores chave. Segundo o Relatório Mundial de Emprego da Organização Internacional do Trabalho (OIT), a taxa de desemprego juvenil global era de aproximadamente 14% em 2023, três vezes mais alta do que a taxa de desemprego geral. Esta disparidade destaca a necessidade urgente de abordar o engajamento dos jovens na força de trabalho[3].
+A baixa participação dos jovens no mercado de trabalho pode levar a uma escassez de talentos e a uma redução da inovação e da competitividade em setores-chave. Segundo o Relatório Mundial de Emprego da Organização Internacional do Trabalho (OIT), a taxa de desemprego juvenil global era de aproximadamente 14% em 2023, três vezes mais alta do que a taxa de desemprego geral. Esta disparidade destaca a necessidade urgente de abordar o engajamento dos jovens na força de trabalho[3].
 
 #### 2- Desafios de Formação Profissional:
 
@@ -47,7 +47,7 @@ Estudos como o realizado pelo Instituto de Pesquisa Econômica Aplicada (IPEA) r
 
 #### 4- Necessidade de Capacitação:
 
-A formação contínua e a capacitação são essenciais para preparar os jovens para as demandas do mercado de trabalho. De acordo com a Educação e Formação de Adultos (EFA), a taxa de participação em cursos de formação e capacitação profissional para jovens tem aumentado, mas ainda é insuficiente. A criação de programas de capacitação específicos pode ajudar a preencher essa lacuna, proporcionando aos jovens as habilidades necessárias para ingressar e prosperar em suas carreiras.[6]
+A formação contínua e a capacitação são essenciais para preparar os jovens para as demandas do mercado de trabalho. Segundo a Educação e Formação de Adultos (EFA), a taxa de participação em cursos de formação e capacitação profissional para jovens tem aumentado, mas ainda é insuficiente. A criação de programas de capacitação específicos pode ajudar a preencher essa lacuna, proporcionando aos jovens as habilidades necessárias para ingressar e prosperar em suas carreiras.[6]
 
 #### 5- Aproveitamento de Tecnologias e Plataformas:
 
@@ -67,6 +67,6 @@ Nível de Escolaridade: Ensino médio completo ou cursando, e jovens que estão 
 
 Conhecimentos Prévios: Conhecimentos básicos adquiridos no ensino médio, com pouca ou nenhuma experiência prática no mercado de trabalho. Estão em fase de exploração e descoberta de suas áreas de interesse e habilidades.
 
-Relação com Tecnologia: Alta familiaridade com tecnologias digitais, incluindo o uso de smartphones e acesso a redes sociais e plataformas online. Estes usuários são geralmente adeptos de aprender através de cursos online e presenciais.
+Relação com Tecnologia: Alta familiaridade com tecnologias digitais, incluindo o uso de smartphones e acesso a redes sociais e plataformas online. Estes usuários são geralmente adeptos de aprender por meio de cursos online e presenciais.
 
 Motivações e Desafios: Interesse em explorar opções de carreira e obter orientação sobre o desenvolvimento de habilidades que podem ser úteis no futuro. Enfrentam desafios como a falta de clareza sobre carreiras, a necessidade de orientação prática e a dificuldade em identificar caminhos de carreira adequados para suas habilidades e interesses.
