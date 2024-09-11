@@ -16,8 +16,7 @@ Tiago da Silva é um jovem que desde sua meninice vem vivendo muitas aventuras. 
 
 | **Ingrid Siqueira** |                     |                             | 
 |------------------|---------------------|-----------------------------|
-| ![Minha Imagem]![image](https://github.com/user-attachments/assets/045f6571-eabd-4227-8cf4-1138806d604f)
- | **Idade:** 16 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante. | **Atribuições:** Estudar no ensino médio e aprender a tocar violino. |
+| ![Minha Imagem](https://github.com/user-attachments/assets/045f6571-eabd-4227-8cf4-1138806d604f)| **Idade:** 16 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante. | **Atribuições:** Estudar no ensino médio e aprender a tocar violino. |
 **Conquistas:** não tem muitas conquistas, mas entre a sua roda de amigos e escola, é a única que sabe tocar violino. **Comida favorita:** Sushi **Condições físicas:**  Tem muita saúde, porém tem crises asmáticas. Sofreu no passado por maus tratos de seu pai e por isso acabou desenvolvendo uma autoestima muito baixa. Tem 1,62m de altura e pesa 55Kg.  |**Medo:** se apresentar ao público, tem uma ansiedade grande ao lidar com as diferentes formas de pensar das pessoas. |**Renda familiar:** R$ 3200,00 a R$ 4500,00.
 |**Motivações:** Formar uma família e se desenvolver ainda mais na música  |**Frustrações:** Sempre se esforçou bastante na escola, porém por conta de suas experiências pessoais ruins, perdeu o foco, levando a uma menor pontuação em seu boletim escolar e aumentando ainda mais a frustração e desinteresse pela escola.  |**Hobbies, história:** O seu maior interesse é pela música. Os melhores momentos de seu dia são tocar violino e também aprender novos instrumentos clássicos. Em função de sua postura introvertida, ela desenvolveu interesses em jogar jogos virtuais.
 
