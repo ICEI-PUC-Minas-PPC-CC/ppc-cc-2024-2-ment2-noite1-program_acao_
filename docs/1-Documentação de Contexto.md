@@ -51,11 +51,11 @@ A formação contínua e a capacitação são essenciais para preparar os jovens
 
 #### 5- Aproveitamento de Tecnologias e Plataformas:
 
-Com o crescimento da tecnologia e das plataformas digitais, há uma oportunidade única para criar soluções inovadoras que conectem jovens a informações e recursos valiosos. A Forbes destaca que o uso de plataformas digitais pode ser um facilitador crucial para a aprendizagem e o desenvolvimento de carreiras, tornando-as ferramentas poderosas para engajar e capacitar jovens.
+Com o crescimento da tecnologia e das plataformas digitais, há uma oportunidade única para criar soluções inovadoras que conectem jovens a informações e recursos valiosos. A Forbes destaca que o uso de plataformas digitais pode ser um facilitador crucial para a aprendizagem e o desenvolvimento de carreiras, tornando-as ferramentas poderosas para engajar e capacitar jovens.[7]
 
 #### 6- Benefícios para a Sociedade:
 
-Investir na capacitação e no engajamento dos jovens não só beneficia os indivíduos e a economia, mas também contribui para uma sociedade mais equilibrada e produtiva. Um estudo da McKinsey & Company aponta que a inclusão de jovens bem treinados no mercado de trabalho pode aumentar significativamente o crescimento econômico e a inovação, promovendo um ciclo positivo de desenvolvimento e oportunidades.[7]
+Investir na capacitação e no engajamento dos jovens não só beneficia os indivíduos e a economia, mas também contribui para uma sociedade mais equilibrada e produtiva. Um estudo da McKinsey & Company aponta que a inclusão de jovens bem treinados no mercado de trabalho pode aumentar significativamente o crescimento econômico e a inovação, promovendo um ciclo positivo de desenvolvimento e oportunidades.[7][8]
 
 ## Público-Alvo
 
