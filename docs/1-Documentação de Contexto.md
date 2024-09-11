@@ -1,20 +1,20 @@
 # Introdução
 
-O projeto abordará uma série de contextos sociais, levando em pauta a violência urbana, e visa principalmente a educação e treinamento de jovens por meio da tecnologia. Como um grupo, nós aprendemos a destacar e visualizar os nossos problemas, estamos dispostos a procurar eficazmente soluciona-los através de uma forma interativa, educativa e principalmente tendo em mente o nosso público-alvo jovem ter uma experiência de prazer ao aprender, assim como em jogos digitais.
+Atualmente, a educação brasileira enfrenta vários desafios, alguns de dimensão pessoal, outros de dimensão técnica, espalhados numa grande variedade de situações. A educação é direito e dever de todos e de todas, de forma que o compromisso com uma educação de qualidade não se resume somente à prática docente. Uma educação de qualidade também é responsabilidade de outros agentes e setores da sociedade, que compõem a comunidade escolar.
 
-Esses problemas foram estudados e comparados com as próprias experiências vividas pelos integrantes do grupo levando a um contexto de desigualdade existente na sociedade, principalmente em países de terceiro mundo como o nosso. A justificativa tirada para a causa desse problema destaca diversos fatores, sendo que abordaremos a desigualdade social, pobreza, falta de acesso à educação e oportunidades de emprego, além da presença de grupos criminosos organizados.
+Ademais, tais questões implicam no desinteresse e no despreparo para o mercado de trabalho de grande parte do corpo discente, o que possivelmente acarretará em problemas sociais de maior magnitude, como a descontinuidade da educação formal, o desemprego, a marginalização e a violência, incluindo até mesmo a cooptação desses indivíduos ao crime organizado. 
 
-Esses fatores se inter-relacionam e criam um ciclo difícil de quebrar. A violência urbana, muitas vezes, é um sintoma de problemas mais profundos e estruturais que necessitam de abordagens multifacetadas, temos em mente desenvolver esse projeto
-e gradualmente solucionando esses problemas.
+Esses fatores se inter-relacionam e criam um ciclo difícil de quebrar. A violência urbana, muitas vezes, é um sintoma de problemas mais profundos e estruturais que necessitam de abordagens multifacetadas, o que justifica uma tentativa de intervenção na formação ética do adolescente como cidadão.
 
 ## Problema
-Reduzir substancialmente a proporção de jovens sem emprego, educação ou formação. E também A violência urbana é alimentada por diversos fatores, incluindo desigualdade social, pobreza, falta de acesso à educação e oportunidades de emprego, além da presença de grupos criminosos organizados.
 
+Uma das queixas mais comuns entre os professores e toda a comunidade escolar é a falta de interesse dos alunos nas aulas, traduzida por apatia com as aulas e as pessoas que a compõem, ou seja, colegas e professores. Isso decorre de fatores variados, segundo Goulart^[1], e acarreta na queda do rendimento, na não apreensão de conteúdos importantes para a vida, na evasão escolar e na reprovação.
+As causas de tal falta de interesse passam por problemas pessoas dos alunos e suas famílias, bem como da desmotivação dos professores em suas práxis. Além disso, a distância entre a tecnologia e as escolas públicas também é uma realidade preocupante, visto que, ainda assim, cerca de 91% dos pais, em março de 2022, concordam que o uso da internet nas escolas as torna mais atrativas para o aluno, segundo reportagem do Jornal Nacional [2].
 
 ## Objetivos
 
 Objetivo Geral
-Desenvolver uma solução eficaz para aumentar o interesse e engajamento dos jovens no mercado de trabalho, promovendo maior conscientização sobre oportunidades de carreira e a importância do desenvolvimento profissional.
+Desenvolver uma solução eficaz para aumentar o interesse e engajamento dos jovens nos estudos e, ulteriormente, no mercado de trabalho, viabilizando novas oportunidades de carreira e promovendo maior conscientização sobre essas e, também, sobre a importância do desenvolvimento profissional.
 
 Objetivos Específicos
 
@@ -22,20 +22,20 @@ Objetivos Específicos
 
 Realizar pesquisas e entrevistas com jovens para entender suas percepções e desafios.
     
-Examinar dados e relatórios sobre tendências de emprego e lacunas na formação profissional.
+Examinar dados e relatórios sobre tendências de emprego e lacunas na formação educacional e profissional.
     
-#### 2 - Oferecer programas de capacitação e cursos voltados para o desenvolvimento de habilidades e conhecimentos necessários para o mercado de trabalho.
+#### 2 - Oferecer programas de capacitação e minicursos voltados para o desenvolvimento de habilidades e conhecimentos necessários para o mercado de trabalho.
 
 Desenvolver e disponibilizar cursos online e presenciais sobre habilidades técnicas e soft skills.
     
 
 ## Justificativa
 
-A falta de interesse dos jovens no mercado de trabalho é um problema significativo com implicações profundas para a economia, a sociedade e o próprio desenvolvimento profissional dos indivíduos. Escolher esse tema é fundamental por diversas razões:
+A falta de interesse dos jovens nos estudos e no mercado de trabalho é um problema significativo com profundas implicações para a economia, a sociedade e o próprio desenvolvimento profissional e pessoal dos indivíduos. Escolher esse tema é fundamental por diversas razões:
 
 #### 1- Impacto Econômico e Social:
 
-A baixa participação dos jovens no mercado de trabalho pode levar a uma escassez de talentos e a uma redução da inovação e da competitividade em setores chave. Segundo o Relatório Mundial de Emprego da Organização Internacional do Trabalho (OIT), a taxa de desemprego juvenil global era de aproximadamente 14% em 2023, três vezes mais alta do que a taxa de desemprego geral. Esta disparidade destaca a necessidade urgente de abordar o engajamento dos jovens na força de trabalho.[3]
+A baixa participação dos jovens no mercado de trabalho pode levar a uma escassez de talentos e a uma redução da inovação e da competitividade em setores chave. Segundo o Relatório Mundial de Emprego da Organização Internacional do Trabalho (OIT), a taxa de desemprego juvenil global era de aproximadamente 14% em 2023, três vezes mais alta do que a taxa de desemprego geral. Esta disparidade destaca a necessidade urgente de abordar o engajamento dos jovens na força de trabalho[3].
 
 #### 2- Desafios de Formação Profissional:
 
