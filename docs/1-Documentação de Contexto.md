@@ -55,7 +55,7 @@ Com o crescimento da tecnologia e das plataformas digitais, há uma oportunidade
 
 #### 6- Benefícios para a Sociedade:
 
-Investir na capacitação e no engajamento dos jovens não só beneficia os indivíduos e a economia, mas também contribui para uma sociedade mais equilibrada e produtiva. Um estudo da McKinsey & Company aponta que a inclusão de jovens bem treinados no mercado de trabalho pode aumentar significativamente o crescimento econômico e a inovação, promovendo um ciclo positivo de desenvolvimento e oportunidades.
+Investir na capacitação e no engajamento dos jovens não só beneficia os indivíduos e a economia, mas também contribui para uma sociedade mais equilibrada e produtiva. Um estudo da McKinsey & Company aponta que a inclusão de jovens bem treinados no mercado de trabalho pode aumentar significativamente o crescimento econômico e a inovação, promovendo um ciclo positivo de desenvolvimento e oportunidades.[7]
 
 ## Público-Alvo
 
