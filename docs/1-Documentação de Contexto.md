@@ -35,7 +35,7 @@ A falta de interesse dos jovens no mercado de trabalho é um problema significat
 
 #### 1- Impacto Econômico e Social:
 
-A baixa participação dos jovens no mercado de trabalho pode levar a uma escassez de talentos e a uma redução da inovação e da competitividade em setores chave. Segundo o Relatório Mundial de Emprego da Organização Internacional do Trabalho (OIT), a taxa de desemprego juvenil global era de aproximadamente 14% em 2023, três vezes mais alta do que a taxa de desemprego geral. Esta disparidade destaca a necessidade urgente de abordar o engajamento dos jovens na força de trabalho.
+A baixa participação dos jovens no mercado de trabalho pode levar a uma escassez de talentos e a uma redução da inovação e da competitividade em setores chave. Segundo o Relatório Mundial de Emprego da Organização Internacional do Trabalho (OIT), a taxa de desemprego juvenil global era de aproximadamente 14% em 2023, três vezes mais alta do que a taxa de desemprego geral. Esta disparidade destaca a necessidade urgente de abordar o engajamento dos jovens na força de trabalho.[3]
 
 #### 2- Desafios de Formação Profissional:
 
