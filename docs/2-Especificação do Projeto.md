@@ -43,8 +43,6 @@ Nascido na capital mineira, Clayton tinha aguçada noção de que poderia se des
 ### Estratégia de Levantamento de Dados e Artefatos Produzidos
 Para entender melhor as necessidades e desafios enfrentados pelos jovens em busca de emprego e desenvolvimento profissional, e para avaliar a eficácia dos cursos e programas de capacitação propostos, o grupo realizará um levantamento de dados por meio de diferentes estratégias e artefatos. A seguir, descrevo as principais etapas e ferramentas envolvidas no processo:
 
-"Para compreender melhor as necessidades e os desafios que os jovens enfrentam na procura de emprego e desenvolvimento profissional, e para avaliar a eficácia dos cursos e programas de formação propostos, o grupo utilizará diferentes estratégias e artefactos para a recolha de dados. Abaixo, descrevo as principais etapas e ferramentas envolvidas no processo:"
-
 #### 1. Desenvolvimento de Questionários
 Artefatos Produzidos:
 
