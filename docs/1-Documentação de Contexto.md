@@ -2,7 +2,7 @@
 
 Atualmente, a educação brasileira enfrenta vários desafios, alguns de dimensão pessoal, outros de dimensão técnica, espalhados numa grande variedade de situações. A educação é direito e dever de todos e de todas, de forma que o compromisso com uma educação de qualidade não se resume somente à prática docente. Uma educação de qualidade também é responsabilidade de outros agentes e setores da sociedade, que compõem a comunidade escolar.
 
-Ademais, tais questões implicam no desinteresse e no despreparo para o mercado de trabalho de grande parte do corpo discente, o que possivelmente acarretará em problemas sociais de maior magnitude, como a descontinuidade da educação formal, o desemprego, a marginalização e a violência, incluindo até mesmo a cooptação desses indivíduos ao crime organizado. 
+Ademais, tais questões implicam no desinteresse e no despreparo para o mercado de trabalho de grande parte do corpo discente, o que possivelmente acarretará problemas sociais de maior magnitude, como a descontinuidade da educação formal, o desemprego, a marginalização e a violência, incluindo até mesmo a cooptação desses indivíduos ao crime organizado. 
 
 Esses fatores se inter-relacionam e criam um ciclo difícil de quebrar. A violência urbana, muitas vezes, é um sintoma de problemas mais profundos e estruturais que necessitam de abordagens multifacetadas, o que justifica uma tentativa de intervenção na formação ética do adolescente como cidadão.
 
