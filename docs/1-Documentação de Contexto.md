@@ -47,7 +47,7 @@ Estudos como o realizado pelo Instituto de Pesquisa Econômica Aplicada (IPEA) r
 
 #### 4- Necessidade de Capacitação:
 
-A formação contínua e a capacitação são essenciais para preparar os jovens para as demandas do mercado de trabalho. De acordo com a Educação e Formação de Adultos (EFA), a taxa de participação em cursos de formação e capacitação profissional para jovens tem aumentado, mas ainda é insuficiente. A criação de programas de capacitação específicos pode ajudar a preencher essa lacuna, proporcionando aos jovens as habilidades necessárias para ingressar e prosperar em suas carreiras.
+A formação contínua e a capacitação são essenciais para preparar os jovens para as demandas do mercado de trabalho. De acordo com a Educação e Formação de Adultos (EFA), a taxa de participação em cursos de formação e capacitação profissional para jovens tem aumentado, mas ainda é insuficiente. A criação de programas de capacitação específicos pode ajudar a preencher essa lacuna, proporcionando aos jovens as habilidades necessárias para ingressar e prosperar em suas carreiras.[6]
 
 #### 5- Aproveitamento de Tecnologias e Plataformas:
 
