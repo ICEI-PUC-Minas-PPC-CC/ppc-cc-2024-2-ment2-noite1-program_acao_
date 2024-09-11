@@ -43,7 +43,7 @@ Muitos jovens enfrentam uma lacuna significativa entre a educação formal e as 
 
 #### 3- Desmotivação e Falta de Orientação:
 
-Estudos como o realizado pelo Instituto de Pesquisa Econômica Aplicada (IPEA) revelam que a falta de orientação profissional e a falta de informações claras sobre trajetórias de carreira são fatores críticos que contribuem para o desinteresse dos jovens. Esses fatores podem gerar desmotivação e a sensação de falta de propósito, dificultando o engajamento com o mercado de trabalho.
+Estudos como o realizado pelo Instituto de Pesquisa Econômica Aplicada (IPEA) revelam que a falta de orientação profissional e a falta de informações claras sobre trajetórias de carreira são fatores críticos que contribuem para o desinteresse dos jovens. Esses fatores podem gerar desmotivação e a sensação de falta de propósito, dificultando o engajamento com o mercado de trabalho.[4]
 
 #### 4- Necessidade de Capacitação:
 
