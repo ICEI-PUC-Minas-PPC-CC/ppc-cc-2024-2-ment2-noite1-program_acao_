@@ -63,7 +63,7 @@ Preferências de aprendizado: Métodos de capacitação preferidos, como cursos 
 
 Plataforma de Pesquisa Online: Utilizaremos ferramentas como Google Forms ou SurveyMonkey para a criação e distribuição do questionário.
 
-Divulgação: O questionário será divulgado através de redes sociais, sites de instituições educacionais parceiras e plataformas de comunicação voltadas para jovens, como fóruns e grupos online.
+Divulgação: O questionário será divulgado por meio de redes sociais, sites de instituições educacionais parceiras e plataformas de comunicação voltadas para jovens, como fóruns e grupos online.
 
 Período de Coleta: A coleta de dados será realizada ao longo de um período de 4 semanas para garantir uma amostra representativa.
 
