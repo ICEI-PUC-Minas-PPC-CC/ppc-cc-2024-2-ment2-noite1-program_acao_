@@ -1,5 +1,7 @@
 # Detalhamento preliminar
 
+DISCUTIR SE VAMOS FAZER A OPÇÃO A OU B. PODEMOS ATÉ TER MAIS UMA IDEIA ALÉM DO QUE JÁ NOS É PROPOSTO
+
 ## Esta seção deverá ser adaptada a proposta do grupo, de forma que:
 ## a) Caso seu grupo vá desenvolver uma solução de software, as seções "projeto de interface" e "_user flow_" deverão ser feitas.
 ## b) Caso seu grupo vá desenvolver cursos/oficinas na PUC, ou na comunidade, um "cronograma preliminar" das atividades a serem realizadas deverá ser proposto.
