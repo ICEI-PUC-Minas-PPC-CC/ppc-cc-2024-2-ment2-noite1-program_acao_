@@ -49,4 +49,8 @@ Ferramenta: Gdevelop 5
 
 ## Explicação e detalhamento do cronograma
 
+*Sobre o primeiro dia:*
 
+  Nossa oficina iniciará com nossas boas vindas, apresentaremos nossa equipe em nome da universidade, assim como teremos a nossa primeira interação com a turma. Explicaremos como funcionará o evento, abordando o que será ensinado durante os dois dias.
+  No laboratório de informática usaremos os computadores onde os alunos acessarão e criarão suas contas individuais no GDevelop 5. Demonstraremos as principais funcionalidades da plataforma: Criação de personagens, cenários, interações, etc. Os jovens terão seus primeiros contatos práticos com as ferramentas e serão orientadas de modo prático como construir o "game" de maneira simples. Para que isso aconteça, os alunos deverão utilizar seus e-mails pessoais, por esse motivo deixamos como única preliminar de participação de nossas oficinas ter o endereço e senha de usuário. Então, concluiremos a nossa primeira aula, respondendo todas as dúvidas dos alunos e preparando-os para a nossa próxima reunião.
+  Ao iniciar a oficina do segundo dia, recapitularemos o que foi ensinado. Em seguida, teremos o ápice das nossas oficinas Programa_acao, quando faremos com que os alunos pratiquem e trabalhem bastante, colocando a mão na massa. Os jogos serão testados e teremos uma prestação de contas do que os alunos criaram e o objetivo é fazer com que os alunos tenham o prazer de ter o próprio jogo criado de um modo simples e divertido. Encerraremos, agradeceremos e abordaremos sobre o certificado.
