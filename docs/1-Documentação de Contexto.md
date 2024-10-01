@@ -16,7 +16,7 @@ As causas de tal desinteresse passam por problemas pessoais dos alunos e suas fa
 Objetivo Geral
 Haverá introdução de conceitos tecnológicos e desenvolvimento de jogos de forma prática e lúdica, oferecendo aos alunos do ensino fundamental a oportunidade de criar seus próprios jogos. Além disso, queremos fortalecer a conexão entre a comunidade local e a PUC Minas, mostrando o papel da instituição na formação de futuros profissionais da área de tecnologia.
 
-### Objetivos Específicos
+#### Objetivos Específicos
 
 Apresentar a PUC Minas como um ambiente de inovação e aprendizado, aproximando crianças do universo acadêmico.
 Ensinar os fundamentos de criação de jogos mediante uma ferramenta acessível e gratuita, o GDevelop 5, que permite que qualquer pessoa crie jogos sem precisar programar.
