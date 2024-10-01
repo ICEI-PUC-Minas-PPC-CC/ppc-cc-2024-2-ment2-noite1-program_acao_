@@ -23,11 +23,14 @@ Tema: Desenvolvimento de jogos
 
 Ferramenta: Gdevelop 5
 
-|Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
+|Aula  1 | Introdução ao GDevelop 5  | Tempo necessário |
 |------|-----------------------------------------|----|
 |1| Introdução à lógica de programação | 30 minutos | 
 |2| Introdução ao funcionamento de um compilador   | 20 minutos |
 
 
 
-
+|Aula  2 | Finalização e Teste dos Jogos  | Tempo necessário |
+|------|-----------------------------------------|----|
+|1| Introdução à lógica de programação | 30 minutos | 
+|2| Introdução ao funcionamento de um compilador   | 20 minutos |
