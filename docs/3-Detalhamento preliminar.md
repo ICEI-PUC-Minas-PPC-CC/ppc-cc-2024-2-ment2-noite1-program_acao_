@@ -43,3 +43,10 @@ Ferramenta: Gdevelop 5
 |14h15| Desenvolvimento dos jogos em seus detalhes finais. | 1 hora e 45 min. |
 |16h00| Teste dos jogos criados e prestação de contas. | 45 minutos | 
 |16h45| Encerramento e entrega de certificados de participação. | 20 minutos |
+
+
+
+
+## Explicação e detalhamento do cronograma
+
+
