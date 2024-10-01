@@ -14,20 +14,14 @@ As causas de tal desinteresse passam por problemas pessoais dos alunos e suas fa
 ## Objetivos
 
 Objetivo Geral
-Desenvolver uma solução eficaz para aumentar o interesse e engajamento dos jovens nos estudos e, ulteriormente, no mercado de trabalho, viabilizando novas oportunidades de carreira e promovendo maior conscientização sobre essas e, também, sobre a importância do desenvolvimento profissional.
+Haverá introdução de conceitos tecnologicos e desenvolvimento de jogos de forma prática e lúdica, oferecendo aos alunos do ensino fundamental a oportunidade de criar seus próprios jogos. Além disso, queremos fortalecer a conexão entre a comunidade local e a PUC Minas, mostrando o papel da instituição na formação de futuros profissionais da área de tecnologia.
 
 Objetivos Específicos
 
-#### 1 - Identificar e analisar as principais razões que contribuem para o desinteresse dos jovens no mercado de trabalho.
-
-Realizar pesquisas e entrevistas com jovens para entender suas percepções e desafios.
-    
-Examinar dados e relatórios sobre tendências de emprego e lacunas na formação educacional e profissional.
-    
-#### 2 - Oferecer programas de capacitação e minicursos voltados para o desenvolvimento de habilidades e conhecimentos necessários para o mercado de trabalho.
-
-Desenvolver e disponibilizar cursos online e presenciais sobre habilidades técnicas e soft skills.
-    
+Apresentar a PUC Minas como um ambiente de inovação e aprendizado, aproximando crianças ao universo acadêmico.
+Ensinar os fundamentos de criação de jogos através de uma ferramenta acessível e gratuita, o GDevelop 5, que permite que qualquer pessoa crie jogos sem precisar programar.
+Estimular o raciocínio lógico, a criatividade e a resolução de problemas de forma colaborativa e divertida.
+Oferecer uma primeira experiência de contato com a tecnologia, o que pode incentivar o interesse dos alunos em áreas como programação, design de jogos e outras áreas correlatas.
 
 ## Justificativa
 
