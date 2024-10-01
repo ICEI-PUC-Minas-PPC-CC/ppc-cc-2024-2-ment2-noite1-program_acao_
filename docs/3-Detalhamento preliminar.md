@@ -25,7 +25,8 @@ Ferramenta: Gdevelop 5
 
 |Aula  1 | Introdução ao GDevelop 5  | Tempo necessário |
 |------|-----------------------------------------|----|
-|1| Introdução à lógica de programação | 30 minutos | 
+|1| Boas-vindas e apresentação do evento Apresentação da equipe e da PUC Minas.
+Introdução ao que será abordado nos dois dias.| 30 minutos | 
 |2| Introdução ao funcionamento de um compilador   | 20 minutos |
 
 
