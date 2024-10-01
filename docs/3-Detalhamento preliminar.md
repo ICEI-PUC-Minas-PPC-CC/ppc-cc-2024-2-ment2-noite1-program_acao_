@@ -32,6 +32,16 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 Neta seção, deverá ser proposto o cronograma de execução das atividades/encontros ou então, de desenvolvimento das demais etapas do projeto.
 Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
 
+Data das oficinas: 09 e 14 de outubro
+
+Local : Laboratório de Informática 6 - Prédio 1 - PUC MINAS
+
+Horário: 14h-17h
+
+Tema: Desenvolvimento de jogos
+
+Ferramenta: Gdevelop 5
+
 |Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
 |1| Introdução à lógica de programação | 30 minutos | 
