@@ -14,18 +14,18 @@ As causas de tal desinteresse passam por problemas pessoais dos alunos e suas fa
 ## Objetivos
 
 Objetivo Geral
-Haverá introdução de conceitos tecnologicos e desenvolvimento de jogos de forma prática e lúdica, oferecendo aos alunos do ensino fundamental a oportunidade de criar seus próprios jogos. Além disso, queremos fortalecer a conexão entre a comunidade local e a PUC Minas, mostrando o papel da instituição na formação de futuros profissionais da área de tecnologia.
+Haverá introdução de conceitos tecnológicos e desenvolvimento de jogos de forma prática e lúdica, oferecendo aos alunos do ensino fundamental a oportunidade de criar seus próprios jogos. Além disso, queremos fortalecer a conexão entre a comunidade local e a PUC Minas, mostrando o papel da instituição na formação de futuros profissionais da área de tecnologia.
 
-Objetivos Específicos
+###Objetivos Específicos
 
-Apresentar a PUC Minas como um ambiente de inovação e aprendizado, aproximando crianças ao universo acadêmico.
-Ensinar os fundamentos de criação de jogos através de uma ferramenta acessível e gratuita, o GDevelop 5, que permite que qualquer pessoa crie jogos sem precisar programar.
+Apresentar a PUC Minas como um ambiente de inovação e aprendizado, aproximando crianças do universo acadêmico.
+Ensinar os fundamentos de criação de jogos mediante uma ferramenta acessível e gratuita, o GDevelop 5, que permite que qualquer pessoa crie jogos sem precisar programar.
 Estimular o raciocínio lógico, a criatividade e a resolução de problemas de forma colaborativa e divertida.
 Oferecer uma primeira experiência de contato com a tecnologia, o que pode incentivar o interesse dos alunos em áreas como programação, design de jogos e outras áreas correlatas.
 
 ## Justificativa
 
-O desinteresse dos jovens nos estudos e no mercado de trabalho é um problema significativo com profundas implicações para a economia, a sociedade e o próprio desenvolvimento profissional e pessoal dos indivíduos. Escolher esse tema é fundamental por diversas razões:
+Em um mundo cada vez mais tecnológico, é fundamental que crianças e adolescentes sejam expostos à tecnologia de forma educativa e motivadora. A criação de jogos oferece uma excelente oportunidade para desenvolver habilidades técnicas, ao mesmo tempo, em que estimula a criatividade. A PUC Minas, como instituição de ensino, tem o papel de inspirar e formar futuros profissionais, e esse projeto visa exatamente isso: despertar o interesse pelas áreas tecnológicas desde cedo.
 
 #### 1- Impacto Econômico e Social:
 
@@ -55,11 +55,11 @@ Investir na capacitação e no engajamento dos jovens não só beneficia os indi
 
 Características Gerais:
 
-Faixa Etária: 15 a 18 anos.
+Faixa Etária: 10 a 18 anos.
 
-Nível de Escolaridade: Ensino médio completo ou cursando, e jovens que estão se preparando para ingressar no ensino superior ou no mercado de trabalho.
+Nível de Escolaridade: Ensino fundamental 2 e médio.
 
-Conhecimentos Prévios: Conhecimentos básicos adquiridos no ensino médio, com pouca ou nenhuma experiência prática no mercado de trabalho. Estão em fase de exploração e descoberta de suas áreas de interesse e habilidades.
+Conhecimentos Prévios: Conhecimentos básicos adquiridos no ensino fundamental 2, com pouca ou nenhuma experiência prática no mercado de trabalho. Estão em fase de exploração e descoberta de suas áreas de interesse e habilidades.
 
 Relação com Tecnologia: Alta familiaridade com tecnologias digitais, incluindo o uso de smartphones e acesso a redes sociais e plataformas online. Estes usuários são geralmente adeptos de aprender por meio de cursos online e presenciais.
 
