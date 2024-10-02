@@ -10,7 +10,7 @@ DISCUTIR SE VAMOS FAZER A OPÇÃO A OU B. PODEMOS ATÉ TER MAIS UMA IDEIA ALÉM 
 
 ## Cronograma preliminar
 
-Neta seção, deverá ser proposto o cronograma de execução das atividades/encontros ou então, de desenvolvimento das demais etapas do projeto.
+Nessa seção, deverá ser proposto o cronograma de execução das atividades/encontros ou, então, de desenvolvimento das demais etapas do projeto.
 Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
 
 Data das oficinas: 09 e 14 de outubro
@@ -63,9 +63,9 @@ Ferramenta: Gdevelop 5
 
 *Sobre o primeiro dia:*
 
-  Nossa oficina iniciará com nossas boas vindas, apresentaremos nossa equipe em nome da universidade, assim como teremos a nossa primeira interação com a turma. Explicaremos como funcionará o evento, abordando o que será ensinado durante os dois dias.
+  Nossa oficina iniciará com nossas boas-vindas, apresentaremos nossa equipe em nome da universidade, assim como teremos a nossa primeira interação com a turma. Explicaremos como funcionará o evento, abordando o que será ensinado durante os dois dias.
   
-  No laboratório de informática usaremos os computadores onde os alunos acessarão e criarão suas contas individuais no GDevelop 5. Demonstraremos as principais funcionalidades da plataforma: Criação de personagens, cenários, interações, etc. Os jovens terão seus primeiros contatos práticos com as ferramentas e serão orientados, na primeira aula, de uma forma teórica. No entanto não serão receptores passívos do conteúdo, pois daremos liberdade e interação com o software para que se ambientalizem. Para que isso aconteça, os alunos deverão utilizar seus e-mails pessoais, por esse motivo deixamos como única preliminar de participação de nossas oficinas ter o endereço e senha de usuário. Concluiremos a nossa primeira aula, respondendo todas as dúvidas dos alunos e preparando-os para a nossa próxima reunião.
+  No laboratório de informática, usaremos os computadores que os alunos acessarão e criarão suas contas individuais no GDevelop 5. Demonstraremos as principais funcionalidades da plataforma: criação de personagens, cenários, interações, etc. Os jovens terão seus primeiros contatos práticos com as ferramentas e serão orientados, na primeira aula, de uma forma teórica. No entanto, não serão receptores passivos do conteúdo, pois daremos liberdade e interação com o software para que se ambientarem. Para isso acontecer, os alunos deverão utilizar seus e-mails pessoais, por esse motivo deixamos como única preliminar de participação em nossas oficinas ter o endereço e senha de usuário. Concluiremos a nossa primeira aula, respondendo todas as dúvidas dos alunos e preparando-os para a nossa próxima reunião.
 
   
 *Sobre o segundo dia:*
@@ -74,7 +74,7 @@ Ferramenta: Gdevelop 5
 
 
 
-Os jogos serão testados e teremos uma prestação de contas do que os alunos criaram e o objetivo é fazer com que os eles tenham o prazer de ter o próprio jogo criado de um modo simples e divertido. Encerraremos, agradeceremos e abordaremos sobre o certificado.
+Os jogos serão testados e teremos uma prestação de contas do que os alunos criaram. O objetivo é fazer com que eles tenham o prazer de ter o próprio jogo criado de um modo simples e divertido. Encerraremos, agradeceremos e abordaremos sobre o certificado.
 
 
 *Sobre o terceiro dia*
