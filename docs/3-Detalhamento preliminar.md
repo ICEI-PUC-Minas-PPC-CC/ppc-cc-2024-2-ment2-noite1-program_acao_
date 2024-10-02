@@ -13,7 +13,7 @@ DISCUTIR SE VAMOS FAZER A OPÇÃO A OU B. PODEMOS ATÉ TER MAIS UMA IDEIA ALÉM 
 Nessa seção, deverá ser proposto o cronograma de execução das atividades/encontros ou, então, de desenvolvimento das demais etapas do projeto.
 Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
 
-Data das oficinas: 09 e 14 de outubro
+Data das oficinas: 07 e 14 de novembro
 
 Local : Laboratório de Informática 6 - Prédio 1 - PUC MINAS
 
