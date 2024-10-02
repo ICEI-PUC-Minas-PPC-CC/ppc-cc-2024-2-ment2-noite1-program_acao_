@@ -33,12 +33,11 @@ Ingrid Siqueira é uma jovem muito inteligente e admirada por muitos de seus col
 
 
 **HISTÓRIA**
-Nascido na capital mineira, Clayton tinha aguçada noção de que poderia se desenvolver e se tornar um profissional de sucesso no futuro. Mesmo assim, ele era indeciso na tomada de decisões e iniciava projetos com outras pessoas, mas nunca os concluía. Para dar seus primeiros passos ele concluiu um curso de barbearia, se identificou muito no trabalho. Porém, todo esse esforço estava substituindo o tempo precioso que o rapaz tinha para estudar e fazer seus deveres escolares. Gradualmente, suas notas diminuem cada vez mais, sem levar em conta que o estresse do trabalho faz com que perca significativamente seu desempenho. Sua dor é não saber discernir o momento de suas decisões e entender a eficácia que um estudo de qualidade pode trazer para que o jovem tenha maiores oportunidades em sua carreira. No fim desse ano, vai fazer ENEM, mas não tem nenhuma certeza de qual curso escolher ou se realmente vai fazer faculdade. Infelizmente, seus pais não dão incentivo ao filho, pelo pensamento que pode trazer prejuízos financeiros.
+Nascido na capital mineira, Clayton tinha aguçada noção de que poderia se desenvolver e se tornar um profissional de sucesso no futuro. Mesmo assim, ele era indeciso na tomada de decisões e iniciava projetos com outras pessoas, mas nunca os concluía. Para dar seus primeiros passos, ele concluiu um curso de barbearia, se identificou muito no trabalho. Porém, todo esse esforço estava substituindo o tempo precioso que o rapaz tinha para estudar e fazer seus deveres escolares. Gradualmente, suas notas diminuem cada vez mais, sem levar em conta que o estresse do trabalho faz com que perca significativamente seu desempenho. Sua dor é não saber discernir o momento de suas decisões e entender a eficácia que um estudo de qualidade pode trazer para que o jovem tenha maiores oportunidades em sua carreira. No fim desse ano, vai fazer ENEM, mas não tem nenhuma certeza de qual curso escolher ou se realmente vai fazer faculdade. Infelizmente, seus pais não dão incentivo ao filho, pelo pensamento que pode trazer prejuízos financeiros.
 
 ### Artefatos produzidos
 
-### 1. Roteio de aulas
-
+### 1. Roteiro de aulas
 
 ### 2. Slides de apresentação do conteúdo
 
