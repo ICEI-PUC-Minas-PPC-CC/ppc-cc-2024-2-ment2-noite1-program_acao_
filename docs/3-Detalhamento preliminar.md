@@ -34,9 +34,9 @@ Ferramenta: Gdevelop 5
 |Horário | Finalização e Teste dos Jogos  | Tempo necessário |
 |------|-----------------------------------------|----|
 |14h00| Revisão da última oficina. | 15 minutos | 
-|14h15| Primeiros passos com o GDevelop 5, contato prático|  45 minutos |
+|14h15| Contato prático com o GDevelop 5 |  45 minutos |
 |15h00| Desenvolvimento dos jogos em seus detalhamentos. | 1 hora |
-|16h00| Encerramento e entrega de certificados de participação. | 30 minutos |
+|16h00| Encerramento e dúvidas. | 30 minutos |
 
 
 
@@ -55,6 +55,7 @@ Ferramenta: Gdevelop 5
 
 ## Explicação e detalhamento do cronograma
 
+
 *Sobre o primeiro dia:*
 
   Nossa oficina iniciará com nossas boas-vindas, apresentaremos nossa equipe em nome da universidade, assim como teremos a nossa primeira interação com a turma. Explicaremos como funcionará o evento, abordando o que será ensinado durante os dois dias.
@@ -64,11 +65,12 @@ Ferramenta: Gdevelop 5
   
 *Sobre o segundo dia:*
   
-  Ao iniciar a oficina do segundo dia, recapitularemos o que foi ensinado. Em seguida, teremos o ápice das nossas oficinas "Do Zero ao Jogo", quando faremos com que os alunos pratiquem e trabalhem bastante, "colocando a mão na massa". GDeveloper 5 é uma plataforma muito interativa e confiamos que os estudantes se divirtam e tenham um interesse pelo que estão criando. 
-
-
-
-Os jogos serão testados e teremos uma prestação de contas do que os alunos criaram. O objetivo é fazer com que eles tenham o prazer de ter o próprio jogo criado de um modo simples e divertido. Encerraremos, agradeceremos e abordaremos sobre o certificado.
+  Ao iniciar a oficina do segundo dia, recapitularemos o que foi ensinado. Em seguida, teremos o ápice das nossas oficinas "Do Zero ao Jogo", quando faremos com que os alunos pratiquem e trabalhem bastante, "colocando a mão na massa". GDeveloper 5 é uma plataforma muito interativa e confiamos que os estudantes se divirtam e tenham um interesse pelo que estão criando. Esse contato prático consiste em fazer com que os alunos sejam mais habeis a usar a plataforma e se prepararem para a segunda parte da aula, iniciando o desenvolvimento dos jogos. Por fim abriremos espaços para as dúvidas.
 
 
 *Sobre o terceiro dia*
+
+Para a nossa última aula, faremos uma revisão do conteúdo passado e iniciaremos a finalização dos jogos. Os participantes terão uma visão maior de como terminarão o projeto e passaremos a testá-los. Faremos uma prestação de contas do que os alunos criaram com o objetivo de fazer com que eles tenham o prazer de ter o próprio jogo criado de um modo simples e divertido. Agradeceremos e abordaremos sobre o certificado.
+
+
+
