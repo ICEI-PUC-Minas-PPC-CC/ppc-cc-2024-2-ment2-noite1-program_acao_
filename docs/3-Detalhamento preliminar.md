@@ -52,9 +52,9 @@ Ferramenta: Gdevelop 5
 |Horário | Finalização e Teste dos Jogos  | Tempo necessário |
 |------|-----------------------------------------|----|
 |14h00| Revisão da última oficina. | 15 minutos | 
-|14h15| Finalização dos jogos craidos. | 1 hora e 45 min. |
-|16h00| Teste e prestação de contas. | 30 minutos | 
-|16h45| Encerramento e entrega de certificados de participação. | 30 minutos |
+|14h15| Finalização dos jogos criados. | 1 hora e 15 min. |
+|15h30| Teste, dúvidas e prestação de contas. | 30 minutos | 
+|16h00| Encerramento e entrega de certificados de participação. | 30 minutos |
 
 
 
