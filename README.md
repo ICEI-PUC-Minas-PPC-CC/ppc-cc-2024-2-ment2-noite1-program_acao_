@@ -1,4 +1,4 @@
-# Do Zero ao Jogo
+# Do Zero ao Jogo - Criação de Games para Iniciantes
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
