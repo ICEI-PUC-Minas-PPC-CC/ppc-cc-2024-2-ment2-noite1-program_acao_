@@ -56,12 +56,12 @@ Investir na capacitação e no engajamento dos jovens não só beneficia os indi
 
 Características Gerais:
 
-Faixa Etária: 10 a 18 anos.
+Faixa Etária: 10 a 15 anos.
 
-Nível de Escolaridade: Ensino fundamental 2 e médio.
+Nível de Escolaridade: Ensino fundamental 2.
 
 Conhecimentos Prévios: Conhecimentos básicos adquiridos no ensino fundamental 2, com pouca ou nenhuma experiência prática no mercado de trabalho. Estão em fase de exploração e descoberta de suas áreas de interesse e habilidades.
 
 Relação com Tecnologia: Alta familiaridade com tecnologias digitais, incluindo o uso de smartphones e acesso a redes sociais e plataformas online. Estes usuários são geralmente adeptos de aprender por meio de cursos online e presenciais.
 
-Motivações e Desafios: Interesse em explorar opções de carreira e obter orientação sobre o desenvolvimento de habilidades que podem ser úteis no futuro. Enfrentam desafios como a falta de clareza sobre carreiras, a necessidade de orientação prática e a dificuldade em identificar caminhos de carreira adequados para suas habilidades e interesses.
+Motivações e Desafios: Interesse em explorar uma (ou mais) opção de carreira e obter orientação sobre o desenvolvimento de habilidades que podem ser úteis no futuro. Enfrentam desafios como a falta de clareza sobre carreiras, a necessidade de orientação prática e a dificuldade em identificar caminhos de carreira adequados para suas habilidades e interesses.
