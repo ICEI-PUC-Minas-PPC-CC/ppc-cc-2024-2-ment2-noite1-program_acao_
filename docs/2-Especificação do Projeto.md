@@ -40,7 +40,11 @@ Minha maior dificuldade vem do baixo desempenho escolar, que é causado pela pou
 
 
 **HISTÓRIA**
-Nascido na capital mineira, Clayton tinha aguçada noção de que poderia se desenvolver e se tornar um profissional de sucesso no futuro. Mesmo assim, ele era indeciso na tomada de decisões e iniciava projetos com outras pessoas, mas nunca os concluía. Para dar seus primeiros passos, ele concluiu um curso de barbearia, se identificou muito no trabalho. Porém, todo esse esforço estava substituindo o tempo precioso que o rapaz tinha para estudar e fazer seus deveres escolares. Gradualmente, suas notas diminuem cada vez mais, sem levar em conta que o estresse do trabalho faz com que perca significativamente seu desempenho. Sua dor é não saber discernir o momento de suas decisões e entender a eficácia que um estudo de qualidade pode trazer para que o jovem tenha maiores oportunidades em sua carreira. No fim desse ano, vai fazer ENEM, mas não tem nenhuma certeza de qual curso escolher ou se realmente vai fazer faculdade. Infelizmente, seus pais não dão incentivo ao filho, pelo pensamento que pode trazer prejuízos financeiros.
+Olá, eu sou o Clayton. Nasci na capital mineira e sempre tive a noção de que poderia me desenvolver e me tornar um profissional de sucesso no futuro. No entanto, sou bastante indeciso na hora de tomar decisões e, muitas vezes, começo projetos com outras pessoas, mas acabo não concluindo.
+
+Para dar meus primeiros passos, concluí um curso de barbearia e me identifiquei muito com o trabalho. Porém, todo esse esforço tem substituído o tempo precioso que eu deveria dedicar aos estudos e aos deveres escolares. Gradualmente, minhas notas estão caindo cada vez mais, e o estresse do trabalho tem afetado significativamente meu desempenho.
+
+Minha maior dificuldade é não saber discernir o momento certo para tomar decisões e entender a importância de um estudo de qualidade para ter maiores oportunidades na carreira. No fim deste ano, vou fazer o ENEM, mas ainda não tenho certeza de qual curso escolher ou se realmente vou fazer faculdade. Infelizmente, meus pais não me incentivam, pois acham que isso pode trazer prejuízos financeiros.
 
 ### Artefatos produzidos
 
