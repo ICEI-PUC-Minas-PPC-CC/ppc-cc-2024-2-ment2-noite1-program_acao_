@@ -40,15 +40,7 @@ Muitos jovens enfrentam uma lacuna significativa entre a educação formal e as 
 
 Estudos como o realizado pelo Instituto de Pesquisa Econômica Aplicada (IPEA) revelam que a falta de orientação profissional e a falta de informações claras sobre trajetórias de carreira são fatores críticos que contribuem para o desinteresse dos jovens. Esses fatores podem gerar desmotivação e a sensação de falta de propósito, dificultando o engajamento com o mercado de trabalho.[4]
 
-#### 4- Necessidade de Capacitação:
-
-A formação contínua e a capacitação são essenciais para preparar os jovens para as demandas do mercado de trabalho. Segundo a Educação e Formação de Adultos (EFA), a taxa de participação em cursos de formação e capacitação profissional para jovens tem aumentado, mas ainda é insuficiente. A criação de programas de capacitação específicos pode ajudar a preencher essa lacuna, proporcionando aos jovens as habilidades necessárias para ingressar e prosperar em suas carreiras.[6]
-
-#### 5- Aproveitamento de Tecnologias e Plataformas:
-
-Com o crescimento da tecnologia e das plataformas digitais, há uma oportunidade única para criar soluções inovadoras que conectem jovens a informações e recursos valiosos. A Forbes destaca que o uso de plataformas digitais pode ser um facilitador crucial para a aprendizagem e o desenvolvimento de carreiras, tornando-as ferramentas poderosas para engajar e capacitar jovens.[7]
-
-#### 6- Benefícios para a Sociedade:
+#### 4- Benefícios para a Sociedade:
 
 Investir na capacitação e no engajamento dos jovens não só beneficia os indivíduos e a economia, mas também contribui para uma sociedade mais equilibrada e produtiva. Um estudo da McKinsey & Company aponta que a inclusão de jovens bem treinados no mercado de trabalho pode aumentar significativamente o crescimento econômico e a inovação, promovendo um ciclo positivo de desenvolvimento e oportunidades.[7][8]
 
