@@ -42,7 +42,7 @@ Estudos como o realizado pelo Instituto de Pesquisa Econômica Aplicada (IPEA) r
 
 #### 4- Benefícios para a Sociedade:
 
-Investir na capacitação e no engajamento dos jovens não só beneficia os indivíduos e a economia, mas também contribui para uma sociedade mais equilibrada e produtiva. Um estudo da McKinsey & Company aponta que a inclusão de jovens bem treinados no mercado de trabalho pode aumentar significativamente o crescimento econômico e a inovação, promovendo um ciclo positivo de desenvolvimento e oportunidades.[7][8]
+Investir na capacitação e no engajamento dos jovens não só beneficia os indivíduos e a economia, mas também contribui para uma sociedade mais equilibrada e produtiva.
 
 ## Público-Alvo
 
