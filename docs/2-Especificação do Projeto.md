@@ -26,8 +26,11 @@ Desde pequeno, o futebol é minha maior paixão, o que acaba tirando meu foco do
 
 
 **HISTÓRIA**
-Ingrid Siqueira é uma jovem muito inteligente e admirada por muitos de seus colegas na escola. Tem um grande talento em tocar violino e tem tomado isso como um refúgio no dia a dia. Sua resiliência é muito baixa e tem facilmente desistido de resolver seus próprios desafios, refletindo no baixo desempenho nos estudos. É nascida em Poços de Caldas - Minas Gerais, a família sempre almejou que a filha estudasse na melhor universidade da região, PUC Minas - Poços de Caldas. A sua dor é proveniente de um baixo desempenho escolar devido à baixa interatividade nas salas de aula, poucas práticas de aprendizagem e desenvolvimento de soft skills e autossuficiência em resolver problemas lógicos. Ela sente que os jogos online têm amenizado sua solidão e queria que a escola pudesse ser tão divertida e interativa quanto seus jogos.
+Eu sou a Ingrid Siqueira. Sou uma jovem muito inteligente e admirada por muitos dos meus colegas na escola. Tenho um grande talento para tocar violino, e isso tem sido meu refúgio no dia a dia.
 
+Apesar disso, minha resiliência é baixa e, muitas vezes, desisto facilmente de resolver meus próprios desafios, o que reflete no meu baixo desempenho nos estudos. Nasci em Poços de Caldas, Minas Gerais, e minha família sempre sonhou que eu estudasse na melhor universidade da região, a PUC Minas - Poços de Caldas.
+
+Minha maior dificuldade vem do baixo desempenho escolar, que é causado pela pouca interatividade nas salas de aula, poucas práticas de aprendizagem e desenvolvimento de habilidades interpessoais e autossuficiência em resolver problemas lógicos. Sinto que os jogos online têm amenizado minha solidão, e eu gostaria que a escola fosse tão divertida e interativa quanto esses jogos.
 
 | **Clayton Borges** |                     |                             | 
 |------------------|---------------------|-----------------------------|
