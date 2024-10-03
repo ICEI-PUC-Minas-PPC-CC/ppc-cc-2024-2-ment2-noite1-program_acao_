@@ -11,7 +11,11 @@
 
 
 **HISTÓRIA**
-Tiago da Silva é um jovem que desde sua meninice vem vivendo muitas aventuras. Visando os pontos positivos de seu desenvolvimento juvenil, ele tem crescido bastante. Por conta de seus problemas pessoais e familiares, somado com a falta de incentivo, objetivo de vida e visão limitada de futuro, esse crescimento tem diminuído demasiadamente. Tiago apenas encontra prazer em jogar futebol e passar grande parte de seu tempo com amigos. Devido à baixa renda familiar, a vizinhança e a moradia são muito simples e as influências de seus amigos não têm sido as melhores. Morou a vida toda na cidade de Caldas, no Sul de Minas, nunca saiu para qualquer lugar distante, mas sempre teve o desejo de ver seu time do coração, Palmeiras, jogar no Allianz Parque. Joga futebol desde pequeno e esse é o seu maior interesse, ofuscando o desejo de aprender o que é ensinado na escola. Sua dor e a dor de sua família é justamente encontrar um meio pelo qual o rapaz possa se desenvolver devidamente, impedindo os riscos de abandono dos estudos e escolhas levando a qualquer classe de criminalidade.
+Oi, eu sou o Tiago da Silva. Desde pequeno, sempre vivi muitas aventuras. Apesar dos desafios pessoais e familiares, tenho tentado crescer e me desenvolver. No entanto, a falta de incentivo e uma visão limitada do futuro têm dificultado esse crescimento.
+
+Eu adoro jogar futebol e passar tempo com meus amigos. Infelizmente, minha família tem uma renda baixa, então moramos em uma vizinhança simples, e as influências dos meus amigos nem sempre são as melhores. Passei toda a minha vida na cidade de Caldas, no Sul de Minas, e nunca viajei para longe. Mas sempre sonhei em ver meu time do coração, o Palmeiras, jogar no Allianz Parque.
+
+Desde pequeno, o futebol é minha maior paixão, o que acaba tirando meu foco dos estudos. Minha família e eu estamos tentando encontrar uma maneira de eu me desenvolver melhor, para que eu não abandone os estudos e não me envolva em atividades erradas.
 
 
 | **Ingrid Siqueira** |                     |                             | 
