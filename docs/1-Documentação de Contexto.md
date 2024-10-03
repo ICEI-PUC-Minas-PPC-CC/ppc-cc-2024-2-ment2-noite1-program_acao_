@@ -8,8 +8,8 @@ Esses fatores se inter-relacionam e criam um ciclo difícil de quebrar. A violê
 
 ## Problema
 
-Uma das queixas mais comuns entre os professores e toda a comunidade escolar é o desinteresse dos alunos nas aulas, traduzido por apatia com as aulas e as pessoas que a compõem, ou seja, colegas e professores. Isso decorre de fatores variados, segundo Goulart[1], e acarreta em queda do rendimento, na não apreensão de conteúdos importantes para a vida, na evasão escolar e na reprovação.
-As causas de tal desinteresse passam por problemas pessoais dos alunos e suas famílias, bem como da desmotivação dos professores em suas práxis. Além disso, a distância entre a tecnologia e as escolas públicas também é uma realidade preocupante, visto que, ainda assim, cerca de 91% dos pais, em março de 2022, concordam que o uso da internet nas escolas as torna mais atrativas para o aluno, segundo reportagem do Jornal Nacional[2].
+Uma das queixas mais comuns entre os professores e toda a comunidade escolar é o desinteresse dos alunos nas aulas, traduzido por apatia com as aulas e as pessoas que a compõem, ou seja, colegas e professores. Isso decorre de fatores variados, segundo Goulart (2022), e acarreta em queda do rendimento, na não apreensão de conteúdos importantes para a vida, na evasão escolar e na reprovação.
+As causas de tal desinteresse passam por problemas pessoais dos alunos e suas famílias, bem como da desmotivação dos professores em suas práxis. Além disso, a distância entre a tecnologia e as escolas públicas também é uma realidade preocupante, visto que, ainda assim, cerca de 91% dos pais, em março de 2022, concordam que o uso da internet nas escolas as torna mais atrativas para o aluno, segundo reportagem do Jornal Nacional (Uso [...], 2022).
 
 ## Objetivos
 
@@ -30,15 +30,15 @@ Em um mundo cada vez mais tecnológico, é fundamental que crianças e adolescen
 
 #### 1- Impacto Econômico e Social:
 
-A baixa participação dos jovens no mercado de trabalho pode levar a uma escassez de talentos e a uma redução da inovação e da competitividade em setores-chave. Segundo o Relatório Mundial de Emprego da Organização Internacional do Trabalho (OIT), a taxa de desemprego juvenil global era de aproximadamente 14% em 2023, três vezes mais alta do que a taxa de desemprego geral. Esta disparidade destaca a necessidade urgente de abordar o engajamento dos jovens na força de trabalho[3].
+A baixa participação dos jovens no mercado de trabalho pode levar a uma escassez de talentos e a uma redução da inovação e da competitividade em setores-chave. Segundo o Relatório Mundial de Emprego da Organização Internacional do Trabalho (OIT), a taxa de desemprego juvenil global era de aproximadamente 14% em 2023, três vezes mais alta do que a taxa de desemprego geral. Esta disparidade destaca a necessidade urgente de abordar o engajamento dos jovens na força de trabalho (Marinho, 2024).
 
 #### 2- Desafios de Formação Profissional:
 
-Muitos jovens enfrentam uma lacuna significativa entre a educação formal e as habilidades exigidas pelo mercado de trabalho. Dados da Pesquisa Nacional por Amostra de Domicílios (PNAD) mostra que dos quase 14 milhões de desempregados no quarto trimestre de 2020, cerca de 70% eram pessoas na faixa-etária entre 14 e 24 anos de idade, Com a inserção das novas tecnologias, esse grupo encontra um mercado de trabalho cada vez mais exigente e consequentemente com mais dificuldades para garantir novas oportunidades.
+Ainda segundo Marinho (2024), muitos jovens enfrentam uma lacuna significativa entre a educação formal e as habilidades exigidas pelo mercado de trabalho. Dados da Pesquisa Nacional por Amostra de Domicílios (PNAD) mostra que dos quase 14 milhões de desempregados no quarto trimestre de 2020, cerca de 70% eram pessoas na faixa-etária entre 14 e 24 anos de idade, Com a inserção das novas tecnologias, esse grupo encontra um mercado de trabalho cada vez mais exigente e consequentemente com mais dificuldades para garantir novas oportunidades.
 
 #### 3- Desmotivação e Falta de Orientação:
 
-Estudos como o realizado pelo Instituto de Pesquisa Econômica Aplicada (IPEA) revelam que a falta de orientação profissional e a falta de informações claras sobre trajetórias de carreira são fatores críticos que contribuem para o desinteresse dos jovens. Esses fatores podem gerar desmotivação e a sensação de falta de propósito, dificultando o engajamento com o mercado de trabalho.[4]
+Estudos como o realizado pelo Instituto de Pesquisa Econômica Aplicada (IPEA) revelam que a falta de orientação profissional e a falta de informações claras sobre trajetórias de carreira são fatores críticos que contribuem para o desinteresse dos jovens. Esses fatores podem gerar desmotivação e a sensação de falta de propósito, dificultando o engajamento com o mercado de trabalho (Verdélio, 2018).
 
 #### 4- Benefícios para a Sociedade:
 
