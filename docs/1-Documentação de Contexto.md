@@ -34,7 +34,7 @@ A baixa participação dos jovens no mercado de trabalho pode levar a uma escass
 
 #### 2- Desafios de Formação Profissional:
 
-Muitos jovens enfrentam uma lacuna significativa entre a educação formal e as habilidades exigidas pelo mercado de trabalho. Dados da Pesquisa Nacional por Amostra de Domicílios (PNAD) do Brasil indicam que cerca de 30% dos jovens entre 18 e 24 anos não possuem as habilidades necessárias para o mercado de trabalho atual, o que evidencia a necessidade de uma capacitação mais eficaz.[4]
+Muitos jovens enfrentam uma lacuna significativa entre a educação formal e as habilidades exigidas pelo mercado de trabalho. Dados da Pesquisa Nacional por Amostra de Domicílios (PNAD) mostra que dos quase 14 milhões de desempregados no quarto trimestre de 2020, cerca de 70% eram pessoas na faixa-etária entre 14 e 24 anos de idade, Com a inserção das novas tecnologias, esse grupo encontra um mercado de trabalho cada vez mais exigente e consequentemente com mais dificuldades para garantir novas oportunidades.
 
 #### 3- Desmotivação e Falta de Orientação:
 
