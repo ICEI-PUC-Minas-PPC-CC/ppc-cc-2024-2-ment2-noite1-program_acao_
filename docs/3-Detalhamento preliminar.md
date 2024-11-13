@@ -28,11 +28,17 @@ Ferramenta: Gdevelop 5
  DETALHAMENTO DO QUE SERÁ ABORDADO EM CADA TÓPICO DA AULA 1:
 
  ---> Apresentar e abordar o que será ensinado no nosso curso
+ 
  ---> Fazer uma introdução do que a academia oferece o ambiente de educação da PUC Minas
+ 
  ---> Mostrar o que é a computação e suas áreas de atuação
+ 
  ---> Mostrar a área de games e as oportunidades de mercado de trabalho
+ 
  ---> Mostar a plataforma GDvelop e explicar o que é
+ 
  ---> Todos os alunos vão criar a sua conta
+ 
  ---> Navegação na plataforma e suas possibilidades
 
 
