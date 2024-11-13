@@ -17,6 +17,8 @@ Ferramenta: Gdevelop 5
 
 ## Aula 1
 
+GUSTAVO, DANIEL E LEONARDO BIBLIOTECA
+
 |Horário | Introdução ao GDevelop 5  | Tempo necessário |
 |------|-----------------------------------------|----|
 |14h00| Boas-vindas e introdução ao que será abordado nos dois dias.| 30 minutos | 
@@ -34,6 +36,8 @@ Ferramenta: Gdevelop 5
  ---> Mostrar o que é a computação e suas áreas de atuação
  
  ---> Mostrar a área de games e as oportunidades de mercado de trabalho
+
+ ---> Aspectos teóricos da criação de jogos (falar um pouco sobre as engines)
  
  ---> Mostar a plataforma GDvelop e explicar o que é
  
@@ -43,6 +47,8 @@ Ferramenta: Gdevelop 5
 
 
 ## Aula 2
+
+WASHINGTON, DANIEL E LEONARDO SILVA
 
 |Horário | Finalização e Teste dos Jogos  | Tempo necessário |
 |------|-----------------------------------------|----|
@@ -55,6 +61,8 @@ Ferramenta: Gdevelop 5
 
 
 ## Aula 3
+
+GUSTAVO, WASHINGTON E LEONARDO BIBLIOTECA  (LEONARDO SILVA)
 
 |Horário | Finalização e Teste dos Jogos  | Tempo necessário |
 |------|-----------------------------------------|----|
