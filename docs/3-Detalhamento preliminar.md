@@ -4,7 +4,7 @@
 
 ## Cronograma preliminar
 
-Data das oficinas: 31 de outubro,07 e 14 de novembro
+Data das oficinas: 14, 21 e 28 de novembro
 
 Local : Laboratório de Informática 6 - Prédio 1 - PUC MINAS
 
@@ -23,7 +23,17 @@ Ferramenta: Gdevelop 5
 |14h30| Explicação básica do que é GDevelop 5 e interação inicial | 1 hora e 30 min. |
 |16h00| Perguntas e preparação para o próximo encontro   | 30 minutos |
 
- 
+
+
+ DETALHAMENTO DO QUE SERÁ ABORDADO EM CADA TÓPICO DA AULA 1:
+
+ --> Apresentar e abordar o que será ensinado no nosso curso
+ --> Fazer uma introdução do que a academia oferece o ambiente de educação da PUC Minas
+ --> Mostrar o que é a computação e suas áreas de atuação
+ --> Mostrar a área de games e as oportunidades de mercado de trabalho
+ --> Mostar a plataforma GDvelop e explicar o que é
+ --> Todos os alunos vão criar a sua conta
+ --> Navegação na plataforma e suas possibilidades
 
 
 ## Aula 2
