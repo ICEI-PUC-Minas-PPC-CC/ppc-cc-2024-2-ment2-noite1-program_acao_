@@ -53,7 +53,7 @@ Além dessas áreas, cientistas da computação também podem atuar como analist
 
 Um cientista da computação pode atuar em diversas áreas, cada uma com suas próprias responsabilidades e faixas salariais. Aqui estão algumas das principais áreas de atuação e suas respectivas médias salariais no Brasil:
 
-1. **Desenvolvimento de Software**: Envolve a criação, teste e manutenção de aplicativos e sistemas. Salário médio: **R$ 3.000 a R$ 15.000** por mês, dependendo da experiência e especialização[1](https://www.unit.br/blog/areas-de-atuacao-ciencia-da-computacao).
+1. **Desenvolvimento de Software**: Salário médio: **R$ 3.000 a R$ 15.000** por mês, dependendo da experiência e especialização[1](https://www.unit.br/blog/areas-de-atuacao-ciencia-da-computacao).
 
 2. **Inteligência Artificial e Aprendizado de Máquina**: Desenvolvimento de algoritmos e modelos para capacitar máquinas a realizar tarefas inteligentes. Salário médio: **R$ 8.000 a R$ 12.000** por mês[2](https://www.faesa.br/blog/cientista-da-computacao-funcao-salarios-e-perfil).
 
