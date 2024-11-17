@@ -30,11 +30,41 @@ GUSTAVO, DANIEL E LEONARDO BIBLIOTECA
  DETALHAMENTO DO QUE SERÁ ABORDADO EM CADA TÓPICO DA AULA 1:
 
  ---> Apresentar e abordar o que será ensinado no nosso curso
+ * Constituição do nosso grupo.
  
  ---> Fazer uma introdução do que a academia oferece o ambiente de educação da PUC Minas
+* Apresentação da universidade, a importância e influencia na sociedade.
  
  ---> Mostrar o que é a computação e suas áreas de atuação
- 
+ A Ciência da Computação é uma área do conhecimento que estuda os fundamentos teóricos da informação e da computação, além de suas aplicações práticas. Ela abrange o desenvolvimento de algoritmos, estruturas de dados, linguagens de programação e sistemas computacionais.
+
+ Os profissionais dessa área são responsáveis por criar softwares, resolver problemas complexos e inovar em tecnologias digitais. Isso inclui áreas como inteligência artificial, segurança da informação, desenvolvimento de jogos e computação em nuvem. Além disso, a Ciência da Computação também envolve a modelagem de dados, gerenciamento de bancos de dados e telecomunicações.
+
+ O papel de um cientista da computação no mercado de trabalho é bastante diversificado e essencial em várias indústrias. Aqui estão algumas das principais funções e áreas de atuação:
+
+1. **Desenvolvimento de Software**: Criar, testar e manter aplicativos e sistemas de software para diferentes plataformas.
+2. **Inteligência Artificial e Aprendizado de Máquina**: Desenvolver algoritmos e modelos que permitem às máquinas realizar tarefas inteligentes.
+3. **Segurança da Informação**: Proteger sistemas e dados contra ameaças cibernéticas, desenvolvendo estratégias de segurança robustas.
+4. **Análise de Dados e Ciência de Dados**: Coletar, organizar e analisar grandes volumes de dados para obter insights e tomar decisões informadas.
+5. **Pesquisa e Desenvolvimento**: Trabalhar em projetos inovadores, como computação quântica, para desenvolver novas tecnologias e métodos científicos.
+6. **Infraestrutura de Redes**: Gerenciar e manter redes de computadores e sistemas de comunicação.
+
+Além dessas áreas, cientistas da computação também podem atuar como analistas de sistemas, arquitetos de software, e em muitas outras funções que envolvem a tecnologia digital.
+
+Um cientista da computação pode atuar em diversas áreas, cada uma com suas próprias responsabilidades e faixas salariais. Aqui estão algumas das principais áreas de atuação e suas respectivas médias salariais no Brasil:
+
+1. **Desenvolvimento de Software**: Envolve a criação, teste e manutenção de aplicativos e sistemas. Salário médio: **R$ 3.000 a R$ 15.000** por mês, dependendo da experiência e especialização[1](https://www.unit.br/blog/areas-de-atuacao-ciencia-da-computacao).
+
+2. **Inteligência Artificial e Aprendizado de Máquina**: Desenvolvimento de algoritmos e modelos para capacitar máquinas a realizar tarefas inteligentes. Salário médio: **R$ 8.000 a R$ 12.000** por mês[2](https://www.faesa.br/blog/cientista-da-computacao-funcao-salarios-e-perfil).
+
+3. **Segurança da Informação**: Proteção de sistemas e dados contra ameaças cibernéticas. Salário médio: **R$ 6.000 a R$ 10.000** por mês[2](https://www.faesa.br/blog/cientista-da-computacao-funcao-salarios-e-perfil).
+
+4. **Análise de Dados e Ciência de Dados**: Coleta, organização e análise de grandes volumes de dados para obter insights. Salário médio: **R$ 7.000 a R$ 12.000** por mês[2](https://www.faesa.br/blog/cientista-da-computacao-funcao-salarios-e-perfil).
+
+5. **Arquitetura de Software**: Design e supervisão da construção de sistemas de software complexos. Salário médio: **R$ 9.232** por mês[3](https://bing.com/search?q=%c3%a1reas+de+atua%c3%a7%c3%a3o+de+um+cientista+da+computa%c3%a7%c3%a3o+e+seus+respectivos+sal%c3%a1rios).
+
+6. **Chief Technology Officer (CTO)**: Responsável pela estratégia tecnológica de uma empresa. Salário médio: **R$ 11.000** por mês[3](https://bing.com/search?q=%c3%a1reas+de+atua%c3%a7%c3%a3o+de+um+cientista+da+computa%c3%a7%c3%a3o+e+seus+respectivos+sal%c3%a1rios).
+
  ---> Mostrar a área de games e as oportunidades de mercado de trabalho
 
  ---> Aspectos teóricos da criação de jogos (falar um pouco sobre as engines)
