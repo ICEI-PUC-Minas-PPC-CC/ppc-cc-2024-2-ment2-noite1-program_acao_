@@ -17,7 +17,7 @@ Ferramenta: Gdevelop 5
 
 ## Aula 1
 
-GUSTAVO, DANIEL E LEONARDO BIBLIOTECA
+GUSTAVO, DANIEL E LEONARDO SILVA
 
 |Horário | Introdução ao GDevelop 5  | Tempo necessário |
 |------|-----------------------------------------|----|
@@ -78,7 +78,7 @@ Um cientista da computação pode atuar em diversas áreas, cada uma com suas pr
 
 ## Aula 2
 
-WASHINGTON, DANIEL E LEONARDO SILVA
+WASHINGTON, DANIEL E LEONARDO GABRIEL
 
 |Horário | Finalização e Teste dos Jogos  | Tempo necessário |
 |------|-----------------------------------------|----|
@@ -92,8 +92,7 @@ WASHINGTON, DANIEL E LEONARDO SILVA
 
 ## Aula 3
 
-GUSTAVO, WASHINGTON E LEONARDO BIBLIOTECA  (LEONARDO SILVA)
-
+GUSTAVO, WASHINGTON E LEONARDO GABRIEL
 |Horário | Finalização e Teste dos Jogos  | Tempo necessário |
 |------|-----------------------------------------|----|
 |14h00| Revisão da última oficina. | 15 minutos | 
