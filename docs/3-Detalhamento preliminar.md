@@ -4,7 +4,7 @@
 
 ## Cronograma preliminar
 
-Data das oficinas: 14, 21 e 28 de novembro
+Data das oficinas: 21 e 28 de novembro e 05 de Dezembro.
 
 Local : Laboratório de Informática 6 - Prédio 1 - PUC MINAS
 
