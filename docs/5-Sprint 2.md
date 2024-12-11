@@ -1,4 +1,10 @@
 https://github.com/user-attachments/assets/879a985b-41ac-4448-be25-6c91da985ff0
+
+[Trabalho Luciana (2).pptx](https://github.com/user-attachments/files/18088730/Trabalho.Luciana.2.pptx)
+
+[Apresentação 2 enviar.pptx](https://github.com/user-attachments/files/18088732/Apresentacao.2.enviar.pptx)
+
+
 [Novo(a) Arquivo ZIP do WinRAR.zip](https://github.com/user-attachments/files/17998820/Novo.a.Arquivo.ZIP.do.WinRAR.zip)
 ![WhatsApp Image 2024-11-21 at 15 49 17_compressed](https://github.com/user-attachments/assets/424025be-fe07-430b-afcf-3ecfec5328c9)
 ![WhatsApp Image 2024-11-21 at 18 11 11](https://github.com/user-attachments/assets/3bafd0ef-4287-4344-8df2-833ebfeff77d)
@@ -33,11 +39,14 @@ https://github.com/user-attachments/assets/879a985b-41ac-4448-be25-6c91da985ff0
 ![WhatsApp Image 2024-12-05 at 15 06 54](https://github.com/user-attachments/assets/ee3d3120-1174-46f4-85ab-91dea0e49ce6)
 ![WhatsApp Image 2024-12-05 at 15 06 54 (1)](https://github.com/user-attachments/assets/662cea39-2355-4ae4-9041-adf4d78145b8)
 ![WhatsApp Image 2024-12-05 at 15 06 53](https://github.com/user-attachments/assets/893379ee-9fa6-49ac-8bf9-0983d98794b3)
+
 Primeiro dia e a Lista de presença: 
 ![WhatsApp Image 2024-12-06 at 08 17 44](https://github.com/user-attachments/assets/d8f0fecd-011a-45ac-9f0f-0f038e75cd4f)
 ![WhatsApp Image 2024-12-06 at 08 17 42](https://github.com/user-attachments/assets/d0436f63-9539-40d7-911d-44fd4f8d1b90)
+
 Segundo dia e a Lista de presença
 ![WhatsApp Image 2024-12-05 at 21 23 38](https://github.com/user-attachments/assets/e264a9a9-23af-4bc2-90c7-0215b4a8bb80)
+
 Terceiro dia e a Lista de presença
 ![WhatsApp Image 2024-12-05 at 21 23 38 (1)](https://github.com/user-attachments/assets/4967102d-3989-4cc2-9106-80d257fdc822)
 
