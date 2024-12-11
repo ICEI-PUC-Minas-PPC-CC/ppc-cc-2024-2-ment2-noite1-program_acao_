@@ -1,14 +1,4 @@
-# Sprint 2
-
-Nesta seção, deverão ser incluídos todos os artefatos produzidos pertinentes à entrega referente à Sprint 2.
-
-O detalhamento do que deverá será entregue, será definido em sala em conjunto com seu(sua) professor(a).
-
-Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista de presença, vídeos etc) deverá ser incluído nesta etapa. Nesta etapa, também deverão ser apresentadas as percepções do grupo com relação à prática extensionista desenvolvida respondendo questões como: o objetivo inicial foi alcançado? quais foram as principais dificuldades enfrentadas pelo grupo? que mudanças poderiam ser realizadas que tornaria o processo mais eficiente? Entre outras...
-
-Hoje dia 03 de Dezembro, ainda estamos em andamento com as apresentações, sendo assim, os dados não estão completos.
-Dia 05 de Dezembro haverá a ultima apresentação e assim poderemos eviar as listas de presenças, fotos, vídeos e todo o restante.
-
+https://github.com/user-attachments/assets/879a985b-41ac-4448-be25-6c91da985ff0
 [Novo(a) Arquivo ZIP do WinRAR.zip](https://github.com/user-attachments/files/17998820/Novo.a.Arquivo.ZIP.do.WinRAR.zip)
 ![WhatsApp Image 2024-11-21 at 15 49 17_compressed](https://github.com/user-attachments/assets/424025be-fe07-430b-afcf-3ecfec5328c9)
 ![WhatsApp Image 2024-11-21 at 18 11 11](https://github.com/user-attachments/assets/3bafd0ef-4287-4344-8df2-833ebfeff77d)
@@ -17,10 +7,6 @@ Dia 05 de Dezembro haverá a ultima apresentação e assim poderemos eviar as li
 ![WhatsApp Image 2024-12-05 at 15 06 50 (3)](https://github.com/user-attachments/assets/b4d80abf-54e5-4149-9567-099763525fa1)
 ![WhatsApp Image 2024-12-05 at 15 06 50 (2)](https://github.com/user-attachments/assets/35861bc2-9351-433d-8810-5d590a5f68e9)
 ![WhatsApp Image 2024-12-05 at 15 06 50 (1)](https://github.com/user-attachments/assets/f5b437a7-4cb1-459f-bd76-7b299f5eb542)
-
-
-https://github.com/user-attachments/assets/879a985b-41ac-4448-be25-6c91da985ff0
-
 ![WhatsApp Image 2024-12-05 at 15 11 03](https://github.com/user-attachments/assets/2b5f9c56-6a00-47d0-931e-0a05d429ba2a)
 ![WhatsApp Image 2024-12-05 at 15 11 01](https://github.com/user-attachments/assets/bea0f652-7646-4e8f-af31-9ac4b076495b)
 ![WhatsApp Image 2024-12-05 at 15 11 00](https://github.com/user-attachments/assets/1e144b1a-cdc5-45bc-9d37-08789b8295d0)
@@ -47,3 +33,12 @@ https://github.com/user-attachments/assets/879a985b-41ac-4448-be25-6c91da985ff0
 ![WhatsApp Image 2024-12-05 at 15 06 54](https://github.com/user-attachments/assets/ee3d3120-1174-46f4-85ab-91dea0e49ce6)
 ![WhatsApp Image 2024-12-05 at 15 06 54 (1)](https://github.com/user-attachments/assets/662cea39-2355-4ae4-9041-adf4d78145b8)
 ![WhatsApp Image 2024-12-05 at 15 06 53](https://github.com/user-attachments/assets/893379ee-9fa6-49ac-8bf9-0983d98794b3)
+Primeiro dia e a Lista de presença: 
+![WhatsApp Image 2024-12-06 at 08 17 44](https://github.com/user-attachments/assets/d8f0fecd-011a-45ac-9f0f-0f038e75cd4f)
+![WhatsApp Image 2024-12-06 at 08 17 42](https://github.com/user-attachments/assets/d0436f63-9539-40d7-911d-44fd4f8d1b90)
+Segundo dia e a Lista de presença
+![WhatsApp Image 2024-12-05 at 21 23 38](https://github.com/user-attachments/assets/e264a9a9-23af-4bc2-90c7-0215b4a8bb80)
+Terceiro dia e a Lista de presença
+![WhatsApp Image 2024-12-05 at 21 23 38 (1)](https://github.com/user-attachments/assets/4967102d-3989-4cc2-9106-80d257fdc822)
+
+
